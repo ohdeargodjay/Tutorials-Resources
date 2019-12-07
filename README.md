@@ -1,2 +1,4 @@
 # Resources
-Resource to study
+Collections of : 
+Tutorials
+Videos
