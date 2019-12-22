@@ -7,4 +7,6 @@
 ](https://medium.com/zeitcode/django-middlewares-and-the-request-response-cycle-fcbf8efb903f)
 7. [Security : Overview of Website Security](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
 8. [Security : Cross Site Scripting](https://www.youtube.com/watch?v=L5l9lSnNMxg)
-
+9. [Security : Cross Site Scripting](https://www.youtube.com/watch?v=eymxlggL9EQ)
+10.[Security : SQL Injection](https://www.youtube.com/watch?v=_jKylhJtPmI)
+11.[Security : Cross-Site Request Forgery Attack](https://www.youtube.com/watch?v=eWEgUcHPle0)
