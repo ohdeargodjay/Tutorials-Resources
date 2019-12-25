@@ -15,3 +15,4 @@
 14. [NoSql : The basics of NoSQL databases — and why we need them](https://www.freecodecamp.org/news/nosql-databases-5f6639ed9574/)
 15. [BackEnd : Lessons Learned Building a Backend-as-a-Service: A Technical Deep Dive](https://medium.baqend.com/how-to-develop-a-backend-as-a-service-from-scratch-lessons-learned-a9fac618c2ce)
 16. [highscalability.com](http://highscalability.com/)
+17. [NoSql : NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d)
