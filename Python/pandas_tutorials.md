@@ -1,0 +1,1 @@
+1. [Reshaping in Pandas - Pivot, Pivot-Table, Stack, and Unstack explained with Pictures](https://nikgrozev.com/2015/07/01/reshaping-in-pandas-pivot-pivot-table-stack-and-unstack-explained-with-pictures/)
