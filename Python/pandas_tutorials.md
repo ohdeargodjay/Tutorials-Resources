@@ -2,4 +2,4 @@
 2. [Pandas Tutorial: Importing Data with read_csv()](https://www.datacamp.com/community/tutorials/pandas-read-csv)
 3. [Pandas Tutorial: DataFrames in Python](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
 4. [Groupby, split-apply-combine and pandas](https://www.datacamp.com/community/tutorials/pandas-split-apply-combine-groupby) 
-5. 
+5. [Hierarchical indices, groupby and pandas](https://www.datacamp.com/community/tutorials/pandas-multi-index)
