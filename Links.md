@@ -19,4 +19,8 @@
 18. [sudo  -1 ](https://linuxacademy.com/blog/linux/linux-commands-for-beginners-sudo/)(https://kb.iu.edu/d/amyi)
 19. [root user](http://www.linfo.org/root.html)
 20. [Linux Info Project](http://www.linfo.org/index.html)
+21. [Celery](https://www.fullstackpython.com/celery.html)
+22. [AMQP, RabbitMQ and Celery - A Visual Guide For Dummies](https://www.abhishek-tiwari.com/amqp-rabbitmq-and-celery-a-visual-guide-for-dummies/)
+23. [Asynchronous Tasks in Django with Redis and Celery](https://stackabuse.com/asynchronous-tasks-in-django-with-redis-and-celery/)
+24. []()
 
