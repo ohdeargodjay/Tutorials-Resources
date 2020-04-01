@@ -16,6 +16,7 @@
 15. [BackEnd : Lessons Learned Building a Backend-as-a-Service: A Technical Deep Dive](https://medium.baqend.com/how-to-develop-a-backend-as-a-service-from-scratch-lessons-learned-a9fac618c2ce)
 16. [highscalability.com](http://highscalability.com/)
 17. [NoSql : NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d)
-18. [sudo](https://linuxacademy.com/blog/linux/linux-commands-for-beginners-sudo/)
+18. [sudo  -1 ](https://linuxacademy.com/blog/linux/linux-commands-for-beginners-sudo/)(https://kb.iu.edu/d/amyi)
 19. [root user](http://www.linfo.org/root.html)
 20. [Linux Info Project](http://www.linfo.org/index.html)
+
