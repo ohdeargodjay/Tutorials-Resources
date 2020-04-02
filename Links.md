@@ -22,5 +22,5 @@
 21. [Celery](https://www.fullstackpython.com/celery.html)
 22. [AMQP, RabbitMQ and Celery - A Visual Guide For Dummies](https://www.abhishek-tiwari.com/amqp-rabbitmq-and-celery-a-visual-guide-for-dummies/)
 23. [Asynchronous Tasks in Django with Redis and Celery](https://stackabuse.com/asynchronous-tasks-in-django-with-redis-and-celery/)
-24. []()
+24. [Art of command line : Complilation of Linux bash commands](https://github.com/jlevy/the-art-of-command-line#meta)
 
