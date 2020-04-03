@@ -23,4 +23,8 @@
 22. [AMQP, RabbitMQ and Celery - A Visual Guide For Dummies](https://www.abhishek-tiwari.com/amqp-rabbitmq-and-celery-a-visual-guide-for-dummies/)
 23. [Asynchronous Tasks in Django with Redis and Celery](https://stackabuse.com/asynchronous-tasks-in-django-with-redis-and-celery/)
 24. [Art of command line : Complilation of Linux bash commands](https://github.com/jlevy/the-art-of-command-line#meta)
+25. [THE BEGINNER’S GUIDE: Understanding Node.js & Express.js fundamentals](https://medium.com/@LindaVivah/the-beginners-guide-understanding-node-js-express-js-fundamentals-e15493462be1)
+26. [A Beginners Guide to using apt-get commands in Linux(Ubuntu)
+Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-commands-in-linux-ubuntu-d5f102a56fc4)
+27. [DebianPackageManagement dpkg](https://wiki.debian.org/DebianPackageManagement)
 
