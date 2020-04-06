@@ -27,4 +27,6 @@
 26. [A Beginners Guide to using apt-get commands in Linux(Ubuntu)
 Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-commands-in-linux-ubuntu-d5f102a56fc4)
 27. [DebianPackageManagement dpkg](https://wiki.debian.org/DebianPackageManagement)
+28. [JS : Event Loop, Callbacks, Apis, Queue](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
 
