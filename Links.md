@@ -30,3 +30,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 28. [JS : Event Loop, Callbacks, Apis, Queue](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 29. [JS :How do you set up a local testing server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
 30. [JS :Callback Hell](http://callbackhell.com/)
+31. [JS :Function Hoisting](https://gist.github.com/maxogden/4bed247d9852de93c94c)
