@@ -33,3 +33,5 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 31. [JS :Function Hoisting](https://gist.github.com/maxogden/4bed247d9852de93c94c)
 32. [Js : Function Hoisting-2](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
 33. [Js : Async JS](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
+34. [JS : You Don't Know JS Book Series](https://github.com/getify/You-Dont-Know-JS/tree/6f51ed6746300f51bc6c930c080b8a7426b7629b)
+35. [Js : Async Await](https://medium.com/@rafaelvidaurre/truly-understanding-async-await-491dd580500e)
