@@ -39,4 +39,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 37. [Node.js : MongoDB: User Authentication & Authorization with JWT](https://bezkoder.com/node-js-mongodb-auth-jwt/)
 38. [Node.js : Introduction to Mongoose for MongoDB](https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/)
 39. [Node.js : MongoDB One-to-Many Relationship tutorial with Mongoose examples]
-40. 
+40. [Node.js : In-depth Introduction to JWT-JSON Web Token](https://bezkoder.com/jwt-json-web-token/)
