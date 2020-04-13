@@ -42,3 +42,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 40. [Node.js : In-depth Introduction to JWT-JSON Web Token](https://bezkoder.com/jwt-json-web-token/)
 41. [Node.js : What is require?](https://nodejs.org/en/knowledge/getting-started/what-is-require/)
 42. [Node.js : Requiring modules in Node.js: Everything you need to know](https://www.freecodecamp.org/news/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8/)
+43. [Node.js : MongoDB One-to-Many Relationship tutorial with Mongoose examples](https://bezkoder.com/mongoose-one-to-many-relationship/)
