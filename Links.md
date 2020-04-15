@@ -47,3 +47,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 45. [RESTful API Design. Best Practices in a Nutshell](https://phauer.com/2015/restful-api-design-best-practices/)
 46. [Node.js: Requiring modules in Node.js: Everything you need to know](https://www.freecodecamp.org/news/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8/)
 47. [JS : When to use Semicolon](http://cassandrawilcox.me/when-to-use-semicolons-in-javascript/)
+48. [JS :var, const, let](https://medium.com/podiihq/javascript-variables-should-you-use-let-var-or-const-394f7645c88f)
