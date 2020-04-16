@@ -52,3 +52,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 50. [The model.discriminator() function](https://mongoosejs.com/docs/discriminators.html)
 51. [Security of JWT tokens ??](https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure)
 52. [How to log out when using JWT](https://medium.com/devgorilla/how-to-log-out-when-using-jwt-a8c7823e8a6)
+53. [Invalidating JSON Web Tokens](https://stackoverflow.com/questions/21978658/invalidating-json-web-tokens)
