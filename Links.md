@@ -51,3 +51,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 49. [Mongoose : Getting started with Mongoose discriminators in Express.js ](https://dev.to/helenasometimes/getting-started-with-mongoose-discriminators-in-expressjs--22m9)
 50. [The model.discriminator() function](https://mongoosejs.com/docs/discriminators.html)
 51. [Security of JWT tokens ??](https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure)
+52. [How to log out when using JWT](https://medium.com/devgorilla/how-to-log-out-when-using-jwt-a8c7823e8a6)
