@@ -48,3 +48,5 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 46. [Node.js: Requiring modules in Node.js: Everything you need to know](https://www.freecodecamp.org/news/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8/)
 47. [JS : When to use Semicolon](http://cassandrawilcox.me/when-to-use-semicolons-in-javascript/)
 48. [JS :var, const, let](https://medium.com/podiihq/javascript-variables-should-you-use-let-var-or-const-394f7645c88f)
+49. [Mongoose : Getting started with Mongoose discriminators in Express.js ](https://dev.to/helenasometimes/getting-started-with-mongoose-discriminators-in-expressjs--22m9)
+50. [The model.discriminator() function](https://mongoosejs.com/docs/discriminators.html)
