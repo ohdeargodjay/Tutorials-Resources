@@ -50,3 +50,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 48. [JS :var, const, let](https://medium.com/podiihq/javascript-variables-should-you-use-let-var-or-const-394f7645c88f)
 49. [Mongoose : Getting started with Mongoose discriminators in Express.js ](https://dev.to/helenasometimes/getting-started-with-mongoose-discriminators-in-expressjs--22m9)
 50. [The model.discriminator() function](https://mongoosejs.com/docs/discriminators.html)
+51. [Security of JWT tokens ??](https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure)
