@@ -54,3 +54,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 52. [How to log out when using JWT](https://medium.com/devgorilla/how-to-log-out-when-using-jwt-a8c7823e8a6)
 53. [Invalidating JSON Web Tokens](https://stackoverflow.com/questions/21978658/invalidating-json-web-tokens)
 54. [Are there any reasons why I should/shouldn't use ObjectId's in my RESTful url's](https://stackoverflow.com/questions/19029174/are-there-any-reasons-why-i-should-shouldnt-use-objectids-in-my-restful-urls)
+55. [https://stackoverflow.com/questions/978061/http-get-with-request-body](https://stackoverflow.com/questions/978061/http-get-with-request-body)
