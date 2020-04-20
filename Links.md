@@ -63,4 +63,5 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 61. [React.js : 2. What is JSX ?](https://engineering.hexacta.com/jsx-can-do-that-1b2666c23a32)
 62. [React.js 3. Implemetation Notes(Understanding under the hood)](https://reactjs.org/docs/implementation-notes.html)
 63. [React.js 4. Understanding Functional & Class Components](https://codeburst.io/react-js-understanding-functional-class-components-e65d723e909)
-64. [React.js 4. Props](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
+64. [React.js 5. Props](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
+65. [React.js 6. Understanding State](https://codeburst.io/react-js-understanding-state-e875911e921c)
