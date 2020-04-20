@@ -61,3 +61,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 59. [React.js : React For Begginers](https://codeburst.io/react-js-for-beginners-the-basics-87ef6e54dae7)
 60. [React.js : 1. The Basics](https://codeburst.io/react-js-for-beginners-the-basics-87ef6e54dae7)
 61. [React.js : 2. What is JSX ?](https://engineering.hexacta.com/jsx-can-do-that-1b2666c23a32)
+62. [React.js 3. Implemetation Notes(Understanding under the hood)](https://reactjs.org/docs/implementation-notes.html)
