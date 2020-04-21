@@ -65,3 +65,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 63. [React.js 4. Understanding Functional & Class Components](https://codeburst.io/react-js-understanding-functional-class-components-e65d723e909)
 64. [React.js 5. Props](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
 65. [React.js 6. Understanding State](https://codeburst.io/react-js-understanding-state-e875911e921c)
+66. [Designing Response of APIs](https://medium.com/@bojanmajed/standard-json-api-response-format-c6c1aabcaa6d)
