@@ -67,3 +67,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 65. [React.js 6. Understanding State](https://codeburst.io/react-js-understanding-state-e875911e921c)
 66. [API Response - 1 ](https://medium.com/@bojanmajed/standard-json-api-response-format-c6c1aabcaa6d)
 67. [API Response - 2](https://github.com/omniti-labs/jsend)
+68. [Is it ok to store user credentials in the JWT](https://stackoverflow.com/questions/42652695/is-it-ok-to-store-user-credentials-in-the-jwt)
