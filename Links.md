@@ -68,3 +68,5 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 66. [API Response - 1 ](https://medium.com/@bojanmajed/standard-json-api-response-format-c6c1aabcaa6d)
 67. [API Response - 2](https://github.com/omniti-labs/jsend)
 68. [Is it ok to store user credentials in the JWT](https://stackoverflow.com/questions/42652695/is-it-ok-to-store-user-credentials-in-the-jwt)
+69. [MongoDB : Auto increment ID-1](https://medium.com/@piotrkarpaa/mongodb-integer-primary-key-nodejs-example-using-server-side-functions-95d1a335b2b2)
+70. [MongoDB : Auto increment ID-2](https://stackoverflow.com/questions/52071281/how-to-autoincrement-ids-and-post-to-mongodb-using-node-js)
