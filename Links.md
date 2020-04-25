@@ -74,3 +74,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 72. [Intro to React.js: 4 part series](https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822)
 73. [How Browsers work ?? CSS HTML](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 74. [How Browser renders a webpage ??](https://itnext.io/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969)
+75. [CSS Specificity](https://medium.com/@emmabostian/css-specificity-d5fdb0996c81)
