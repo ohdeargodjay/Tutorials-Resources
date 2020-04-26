@@ -76,3 +76,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 74. [How Browser renders a webpage ??](https://itnext.io/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969)
 75. [CSS Specificity](https://medium.com/@emmabostian/css-specificity-d5fdb0996c81)
 76. [CSS : Outlines vs Border](https://www.lifewire.com/css-outline-styles-3466217)
+77. [Reduc Introduction, video](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
