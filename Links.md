@@ -77,3 +77,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 75. [CSS Specificity](https://medium.com/@emmabostian/css-specificity-d5fdb0996c81)
 76. [CSS : Outlines vs Border](https://www.lifewire.com/css-outline-styles-3466217)
 77. [Reduc Introduction, video](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
+78. [REST API - PUT vs PATCH with real life examples](https://stackoverflow.com/questions/28459418/rest-api-put-vs-patch-with-real-life-examples)
