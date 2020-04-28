@@ -92,3 +92,5 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 84. [Axios : Return response form Axios](https://stackoverflow.com/questions/48980380/returning-data-from-axios-api)
 85. [React : Form validation sematic UI ](https://stackoverflow.com/questions/49207311/reactjs-semantic-ui-cannot-type-into-form-when-value-attribute-exists)
 86. [React : Using the spread operator in React setState](https://medium.com/@thejasonfile/using-the-spread-operator-in-react-setstate-c8a14fc51be1)
+87. [How to Show and Hide ReactJS Components](https://www.pluralsight.com/guides/how-to-show-and-hide-reactjs-components)
+88. [How to Use the setState Callback in React](https://upmostly.com/tutorials/how-to-use-the-setstate-callback-in-react)
