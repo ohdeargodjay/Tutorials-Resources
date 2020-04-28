@@ -88,3 +88,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 80. [General Programming : Difference between Scripting language and Programming language](https://stackoverflow.com/questions/17253545/scripting-language-vs-programming-language)
 81. [General Programming : What is Reactive Programming ?](http://paulstovell.com/blog/reactive-programming)
 82. [General Programming : Truly understanding the difference between procedural and functional](https://stackoverflow.com/questions/5226055/truly-understanding-the-difference-between-procedural-and-functional?noredirect=1&lq=1)
+83. [npm  : Unisnatll node modules](https://stackoverflow.com/questions/13066532/how-to-uninstall-npm-modules-in-node-js)
