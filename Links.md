@@ -81,3 +81,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 79. [Functional vs Object-Oriented vs Procedural Programming](https://medium.com/@LiliOuakninFelsen/functional-vs-object-oriented-vs-procedural-programming-a3d4585557f3)
 80. [General Programming : Difference between Scripting language and Programming language](https://medium.com/jay-tillu/difference-between-scripting-language-and-programming-language-4d520ebf36ef)
 81. [General Programming : What is Reactive Programming ?](http://paulstovell.com/blog/reactive-programming)
+82. [General Programming : Truly understanding the difference between procedural and functional](https://stackoverflow.com/questions/5226055/truly-understanding-the-difference-between-procedural-and-functional?noredirect=1&lq=1)
