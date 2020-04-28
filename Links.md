@@ -79,6 +79,6 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 77. [Reduc Introduction, video](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
 78. [REST API - PUT vs PATCH with real life examples](https://stackoverflow.com/questions/28459418/rest-api-put-vs-patch-with-real-life-examples)
 79. [Functional vs Object-Oriented vs Procedural Programming](https://medium.com/@LiliOuakninFelsen/functional-vs-object-oriented-vs-procedural-programming-a3d4585557f3)
-80. [General Programming : Difference between Scripting language and Programming language](https://medium.com/jay-tillu/difference-between-scripting-language-and-programming-language-4d520ebf36ef)
+80. [General Programming : Difference between Scripting language and Programming language]https://stackoverflow.com/questions/17253545/scripting-language-vs-programming-language)
 81. [General Programming : What is Reactive Programming ?](http://paulstovell.com/blog/reactive-programming)
 82. [General Programming : Truly understanding the difference between procedural and functional](https://stackoverflow.com/questions/5226055/truly-understanding-the-difference-between-procedural-and-functional?noredirect=1&lq=1)
