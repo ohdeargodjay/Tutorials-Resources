@@ -73,6 +73,7 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 70. [MongoDB : Problems with auto increment ID - 1](https://blog.serverdensity.com/switching-to-mongodb-and-auto-increment/)
 71. [MongoDB : Problems with auto increment ID -2 ](https://stackoverflow.com/questions/22883304/why-is-auto-increment-pattern-bad-when-scaling-in-mongodb)
 72. [MongoDB : Problems with auto increment ID - 3](https://stackoverflow.com/questions/6645277/should-i-implement-auto-incrementing-in-mongodb?rq=1)
+73. [MopngoDB : difference between findandmodify() and update()](https://stackoverflow.com/questions/10778493/whats-the-difference-between-findandmodify-and-update-in-mongodb)
 71. [mongoose-auto-increment](https://www.npmjs.com/package/mongoose-auto-increment)
 72. [Intro to React.js: 4 part series](https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822)
 73. [How Browsers work ?? CSS HTML](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
