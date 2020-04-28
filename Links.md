@@ -69,6 +69,7 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 67. [API Response - 2](https://github.com/omniti-labs/jsend)
 68. [Is it ok to store user credentials in the JWT](https://stackoverflow.com/questions/42652695/is-it-ok-to-store-user-credentials-in-the-jwt)
 69. [MongoDB:Create an Auto-Incrementing Sequence Field](https://docs.mongodb.com/v3.0/tutorial/create-an-auto-incrementing-field/)
+70. [MongoDB : integer primary key (nodejs example) using server side functions](https://medium.com/@piotrkarpaa/mongodb-integer-primary-key-nodejs-example-using-server-side-functions-95d1a335b2b2)
 70. [MongoDB : Problems with auto increment ID - 1](https://blog.serverdensity.com/switching-to-mongodb-and-auto-increment/)
 71. [MongoDB : Problems with auto increment ID -2 ](https://stackoverflow.com/questions/22883304/why-is-auto-increment-pattern-bad-when-scaling-in-mongodb)
 72. [MongoDB : Problems with auto increment ID - 3](https://stackoverflow.com/questions/6645277/should-i-implement-auto-incrementing-in-mongodb?rq=1)
