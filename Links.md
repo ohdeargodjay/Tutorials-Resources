@@ -91,3 +91,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 83. [npm  : Unisnatll node modules](https://stackoverflow.com/questions/13066532/how-to-uninstall-npm-modules-in-node-js)
 84. [Axios : Return response form Axios](https://stackoverflow.com/questions/48980380/returning-data-from-axios-api)
 85. [React : Form validation sematic UI ](https://stackoverflow.com/questions/49207311/reactjs-semantic-ui-cannot-type-into-form-when-value-attribute-exists)
+86. [React : Using the spread operator in React setState](https://medium.com/@thejasonfile/using-the-spread-operator-in-react-setstate-c8a14fc51be1)
