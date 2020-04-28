@@ -90,3 +90,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 82. [General Programming : Truly understanding the difference between procedural and functional](https://stackoverflow.com/questions/5226055/truly-understanding-the-difference-between-procedural-and-functional?noredirect=1&lq=1)
 83. [npm  : Unisnatll node modules](https://stackoverflow.com/questions/13066532/how-to-uninstall-npm-modules-in-node-js)
 84. [Axios : Return response form Axios](https://stackoverflow.com/questions/48980380/returning-data-from-axios-api)
+85. [React : Form validation sematic UI ](https://stackoverflow.com/questions/41724225/form-validation-with-semantic-ui-react)
