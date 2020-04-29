@@ -94,3 +94,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 86. [React : Using the spread operator in React setState](https://medium.com/@thejasonfile/using-the-spread-operator-in-react-setstate-c8a14fc51be1)
 87. [How to Show and Hide ReactJS Components](https://www.pluralsight.com/guides/how-to-show-and-hide-reactjs-components)
 88. [How to Use the setState Callback in React](https://upmostly.com/tutorials/how-to-use-the-setstate-callback-in-react)
+89. [REST : Best practises](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
