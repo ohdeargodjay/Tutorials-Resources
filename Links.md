@@ -97,3 +97,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 89. [REST : Best practises](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 90. [REST : Http Status Code](https://www.restapitutorial.com/httpstatuscodes.html)
 91. [Express : next() ](https://stackoverflow.com/questions/44238150/why-calling-next-in-express-routes-is-optional)
+92.[JavaScript Promises and Async/Await: As Fast As Possible™](https://itnext.io/javascript-promises-and-async-await-as-fast-as-possible-d7c8c8ff0abc)
