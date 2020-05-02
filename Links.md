@@ -104,3 +104,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 96. [NodeJs : Error Handling](https://www.joyent.com/node-js/production/design/errors)
 97. [JS engine : Abstract Structure Tree](https://astexplorer.net/)
 98. [JS : Let, var, const](https://dev.to/sarah_chima/var-let-and-const--whats-the-difference-69e)
+99 . [JS : Closure, scopes. Video(One of the best)](https://www.youtube.com/watch?v=QyUFheng6J0&list=PLqFM1yEULkubcwn4jY3avSvXpmNJ0AUqg&index=18&t=0s)
