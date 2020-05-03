@@ -121,3 +121,5 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 112. [ECMA-262-3 in detail. Chapter 1. Execution Contexts.](http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/)
 113. [Course : Craeting Programming language like JS ](http://dmitrysoshnikov.com/courses/essentials-of-interpretation/)
 114. [General Programming : Learn to write a Programming Langauage](http://dmitrysoshnikov.com/)
+115. [JS : SO : How do JavaScript closures work?](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work?noredirect=1&lq=1)
+116. [JS : SO : JavaScript closures vs. anonymous functions](JavaScript closures vs. anonymous functions)
