@@ -120,3 +120,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 111. [JS : IIFEs ; Essential JavaScript: Mastering Immediately-invoked Function Expressions](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
 112. [ECMA-262-3 in detail. Chapter 1. Execution Contexts.](http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/)
 113. [Course : Craeting Programming language like JS ](http://dmitrysoshnikov.com/courses/essentials-of-interpretation/)
+114. [General Programming : Learn to write a Programming Langauage](http://dmitrysoshnikov.com/)
