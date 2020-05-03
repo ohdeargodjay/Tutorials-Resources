@@ -124,3 +124,5 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 115. [JS : SO : How do JavaScript closures work?](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work?noredirect=1&lq=1)
 116. [JS : SO : JavaScript closures vs. anonymous functions](JavaScript closures vs. anonymous functions)
 117. [Douglas Crackford videos on JavaScript](https://www.youtube.com/watch?v=Y2Y0U-2qJMs&list=PL5586336C26BDB324&index=2)
+118. [How does the “this” keyword work?
+](https://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work)
