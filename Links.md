@@ -108,3 +108,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 100. [JS : Hoisting](https://stackoverflow.com/questions/3684923/javascript-variables-declare-outside-or-inside-loop)
 101. [An introduction to scope in JavaScript
 ](https://www.freecodecamp.org/news/an-introduction-to-scope-in-javascript-cbd957022652/)
+102. [Web Assembly : Intro](https://medium.com/wasm/the-future-of-web-assembly-wasm-the-hardware-execution-revolution-4116eafa39a0)
