@@ -109,4 +109,5 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 101. [An introduction to scope in JavaScript
 ](https://www.freecodecamp.org/news/an-introduction-to-scope-in-javascript-cbd957022652/)
 102. [Web Assembly : Intro](https://medium.com/wasm/the-future-of-web-assembly-wasm-the-hardware-execution-revolution-4116eafa39a0)
-103. [JavaScript essentials: why you should know how the engine works](https://www.freecodecamp.org/news/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553/)
+103. [JS : JavaScript essentials: why you should know how the engine works](https://www.freecodecamp.org/news/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553/)
+104. [JS : How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
