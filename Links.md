@@ -113,3 +113,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 104. [JS : How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
 105. [JS : Hoisting : Stack_overflow](https://stackoverflow.com/questions/7506844/javascript-function-scoping-and-hoisting)
 106. [JS : Hooisting and Scoping](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
+107. [nodejs : Scopes](https://stackoverflow.com/questions/15406062/in-what-scope-are-module-variables-stored-in-node-js)
