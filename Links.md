@@ -118,3 +118,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 109. [nodejs : Scopes/this Keyword ](https://stackoverflow.com/questions/19850234/node-js-variable-declaration-and-scope)
 110. [nodejs : this keyword](https://stackoverflow.com/questions/22770299/meaning-of-this-in-node-js-modules-and-functions)
 111. [JS : IIFEs ; Essential JavaScript: Mastering Immediately-invoked Function Expressions](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
+112. [ECMA-262-3 in detail. Chapter 1. Execution Contexts.](http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/)
