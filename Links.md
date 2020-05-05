@@ -126,3 +126,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 117. [Douglas Crackford videos on JavaScript](https://www.youtube.com/watch?v=Y2Y0U-2qJMs&list=PL5586336C26BDB324&index=2)
 118. [JS : How does the “this” keyword work?
 ](https://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work)
+119. [HTTP : Patch Semantics](https://williamdurand.fr/2014/02/14/please-do-not-patch-like-an-idiot/)
