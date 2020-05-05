@@ -128,3 +128,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 ](https://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work)
 119. [HTTP : Patch Semantics](https://williamdurand.fr/2014/02/14/please-do-not-patch-like-an-idiot/)
 120. [HTTP : What is URL ?](https://launchschool.com/books/http/read/what_is_a_url)
+121. [mongoDb : Mongodb how to insert ONLY if does not exists (no update if exist)?](https://stackoverflow.com/questions/48220677/mongodb-how-to-insert-only-if-does-not-exists-no-update-if-exist)
