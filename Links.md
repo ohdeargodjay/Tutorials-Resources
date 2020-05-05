@@ -127,3 +127,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 118. [JS : How does the “this” keyword work?
 ](https://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work)
 119. [HTTP : Patch Semantics](https://williamdurand.fr/2014/02/14/please-do-not-patch-like-an-idiot/)
+120. [HTTP : What is URL ?](https://launchschool.com/books/http/read/what_is_a_url)
