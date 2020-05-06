@@ -131,3 +131,5 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 121. [mongoDb : Mongodb how to insert ONLY if does not exists (no update if exist)?](https://stackoverflow.com/questions/48220677/mongodb-how-to-insert-only-if-does-not-exists-no-update-if-exist)
 122. [JavaScript : Default Values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
 123. [JavaScript : Destructuring Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+124. [nodejs : Test a Node RESTful API with Mocha and Chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
+125. [How to Unit Test with NodeJS?](Test a Node RESTful API with Mocha and Chai)
