@@ -135,3 +135,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 125. [nodejs : How to Unit Test with NodeJS?](Test a Node RESTful API with Mocha and Chai)
 126. [nodejs : Working with Environment Variables in Node.js](https://www.twilio.com/blog/working-with-environment-variables-in-node-js-html)
 127. [nodejs : Mocha basics](https://codeburst.io/how-to-test-javascript-with-mocha-the-basics-80132324752e)
+128. [nodejs : Mocha user auth token and request testing](https://stackoverflow.com/questions/14001183/how-to-authenticate-supertest-requests-with-passport)
