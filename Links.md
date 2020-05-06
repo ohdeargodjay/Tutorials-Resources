@@ -135,3 +135,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 126. [nodejs : Working with Environment Variables in Node.js](https://www.twilio.com/blog/working-with-environment-variables-in-node-js-html)
 127. [nodejs : Mocha basics](https://codeburst.io/how-to-test-javascript-with-mocha-the-basics-80132324752e)
 128. [nodejs : Mocha user auth token and request testing](https://codeburst.io/authenticated-testing-with-mocha-and-chai-7277c47020b7)
+129. [nodejs : Enviornment Variables](https://www.freecodecamp.org/news/heres-how-you-can-actually-use-node-environment-variables-8fdf98f53a0a/)
