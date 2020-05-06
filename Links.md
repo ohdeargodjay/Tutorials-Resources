@@ -132,7 +132,6 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 122. [JavaScript : Default Values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
 123. [JavaScript : Destructuring Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 124. [nodejs : Test a Node RESTful API with Mocha and Chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
-125. [nodejs : How to Unit Test with NodeJS?](Test a Node RESTful API with Mocha and Chai)
 126. [nodejs : Working with Environment Variables in Node.js](https://www.twilio.com/blog/working-with-environment-variables-in-node-js-html)
 127. [nodejs : Mocha basics](https://codeburst.io/how-to-test-javascript-with-mocha-the-basics-80132324752e)
 128. [nodejs : Mocha user auth token and request testing](https://codeburst.io/authenticated-testing-with-mocha-and-chai-7277c47020b7)
