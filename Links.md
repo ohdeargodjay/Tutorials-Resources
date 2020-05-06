@@ -138,3 +138,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 129. [nodejs : Enviornment Variables](https://www.freecodecamp.org/news/heres-how-you-can-actually-use-node-environment-variables-8fdf98f53a0a/)
 130. [nodejs : Mocha Multiple Files Testing](https://www.alxolr.com/articles/how-to-separate-mocha-tests-in-multiple-files)
 131. [nodejs : Complete Mocha Guide](https://blog.logrocket.com/a-quick-and-complete-guide-to-mocha-testing-d0e0ea09f09d/)
+132. [How to mock a dependency in a Node.js, and why you should do it.](https://itnext.io/how-to-mock-dependency-in-a-node-js-and-why-2ad4386f6587)
