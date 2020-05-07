@@ -142,3 +142,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 133. [nodejs : Mocha multiple file testing](https://medium.com/critigenopensource/mocha-unit-testing-pattern-test-suite-setup-code-for-file-separated-test-e339a550dbf6)
 134. [nodejs : NPM scripts tricks-1](https://www.twilio.com/blog/npm-scripts)
 135. [nodejs : npm scripts trcicks -2](https://medium.com/@kevinkreuzer/flexible-npm-scripts-89b5ec0c5b46)
+136. [nodejs : set env variables in npm script](https://stackoverflow.com/questions/25112510/how-to-set-environment-variables-from-within-package-json)
