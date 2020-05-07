@@ -140,3 +140,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 131. [nodejs : Complete Mocha Guide](https://blog.logrocket.com/a-quick-and-complete-guide-to-mocha-testing-d0e0ea09f09d/)
 132. [nodejs : How to mock a dependency in a Node.js, and why you should do it.](https://itnext.io/how-to-mock-dependency-in-a-node-js-and-why-2ad4386f6587)
 133. [nodejs : Mocha multiple file testing](https://medium.com/critigenopensource/mocha-unit-testing-pattern-test-suite-setup-code-for-file-separated-test-e339a550dbf6)
+134. [nodejs : NPM scripts tricks](https://www.twilio.com/blog/npm-scripts)
