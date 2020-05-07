@@ -144,3 +144,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 135. [nodejs : npm scripts trcicks -2](https://medium.com/@kevinkreuzer/flexible-npm-scripts-89b5ec0c5b46)
 136. [nodejs : set env variables in npm script](https://stackoverflow.com/questions/25112510/how-to-set-environment-variables-from-within-package-json)
 137. [nodejs : dependencies vs devDependencies](https://medium.com/@stalonadsl948/dependencies-vs-devdependencies-926e096a3dee)
+138. [nodejs : Seperate out Production and Development dependencies](https://dev.to/numtostr/environment-variables-in-node-js-the-right-way-15ad)
