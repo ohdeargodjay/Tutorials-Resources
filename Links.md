@@ -148,3 +148,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 139. [nodejs : How to correctly unit test Express server](https://glebbahmutov.com/blog/how-to-correctly-unit-test-express-server/)
 140. [nodejs : How To Start Unit Testing Your Express Apps](https://alexanderpaterson.com/posts/how-to-start-unit-testing-your-express-apps)
 141. [nodejs : How mocha executes tests](https://stackoverflow.com/questions/43229233/how-mocha-knows-which-file-to-load-first-in-the-test-suite)
+142. [nodejs : Asynchronous module loading](https://stackoverflow.com/questions/20315434/node-js-asynchronous-module-loading)
