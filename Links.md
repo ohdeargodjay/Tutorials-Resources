@@ -149,3 +149,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 140. [nodejs : How To Start Unit Testing Your Express Apps](https://alexanderpaterson.com/posts/how-to-start-unit-testing-your-express-apps)
 141. [nodejs : How mocha executes tests](https://stackoverflow.com/questions/43229233/how-mocha-knows-which-file-to-load-first-in-the-test-suite)
 142. [nodejs : Asynchronous module loading](https://stackoverflow.com/questions/20315434/node-js-asynchronous-module-loading)
+143. [nodejs : node.js require() cache - possible to invalidate?](https://stackoverflow.com/questions/9210542/node-js-require-cache-possible-to-invalidate)
