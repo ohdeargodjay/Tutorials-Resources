@@ -166,3 +166,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 156. constructor  :   I will refer to function object which created me.
 157. prototype : Only for function Objects. I will point to anomymous object which gets created during i get created in memory by engine or we can say by Object() function.
 158. [JS : Prototypal Inheritance](https://medium.com/@raviroshan.talk/javascript-prototypal-inheritance-f3a58cfb1179)
+159. [Scalability : What does it mean to say that a framework “scales well”?](https://stackoverflow.com/questions/936461/what-does-it-mean-to-say-that-a-framework-scales-well)
