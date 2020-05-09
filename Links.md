@@ -154,3 +154,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 145. [JS : Understanding Js  weird parts notes](https://jsbeginners.com/category/javascript-notes-2/understanding-weird-parts-notes/)
 146. [JS : Variables and scoping in ECMAScript 6
 ](https://2ality.com/2015/02/es6-scoping.html)
+147. [JS : Where does JS closure Lives](https://stackoverflow.com/questions/37491626/where-does-a-javascript-closure-live)
