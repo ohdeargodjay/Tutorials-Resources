@@ -158,3 +158,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 148. [JS : Closures great article](https://javascript.info/closure)
 149. [JS : How does JavaScript .prototype work?](https://stackoverflow.com/questions/572897/how-does-javascript-prototype-work?noredirect=1&lq=1)
 150. [JS : Video Series on Prototypes and Constructors](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)
+151. [JS : inheritance behind the scene __proto__, [[prototype]] and prototype](https://hackernoon.com/understand-nodejs-javascript-object-inheritance-proto-prototype-class-9bd951700b29)
