@@ -157,3 +157,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 147. [JS : Where does JS closure Lives](https://stackoverflow.com/questions/37491626/where-does-a-javascript-closure-live)
 148. [JS : Closures great article](https://javascript.info/closure)
 149. [JS : How does JavaScript .prototype work?](https://stackoverflow.com/questions/572897/how-does-javascript-prototype-work?noredirect=1&lq=1)
+150. [JS : Video Series on Prototypes and Constructors](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)
