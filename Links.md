@@ -162,3 +162,6 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 152. [JS : Prototype](https://www.javascripttutorial.net/javascript-prototype/)
 153. [JS : What does “ [native code] ” mean?](https://stackoverflow.com/questions/11234664/what-does-native-code-mean)
 154. [JS : Good Blog](https://kenneth-kin-lum.blogspot.com/)
+155. [[proto]] : I will refer to .prototype object refered by the function object which created me.
+156. constructor  :   I will refer to function object which created me.
+157. prototype : Only for function Objects. I will point to anomymous object which gets created during i get created in memory by engine or we can say by Object() function.
