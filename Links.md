@@ -161,3 +161,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 151. [JS : inheritance behind the scene __proto__, [[prototype]] and prototype](https://hackernoon.com/understand-nodejs-javascript-object-inheritance-proto-prototype-class-9bd951700b29)
 152. [JS : Prototype](https://www.javascripttutorial.net/javascript-prototype/)
 153. [JS : What does “ [native code] ” mean?](https://stackoverflow.com/questions/11234664/what-does-native-code-mean)
+154. [JS : Good Blog](https://kenneth-kin-lum.blogspot.com/)
