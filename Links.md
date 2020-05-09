@@ -152,4 +152,5 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 143. [nodejs : node.js require() cache - possible to invalidate?](https://stackoverflow.com/questions/9210542/node-js-require-cache-possible-to-invalidate)
 144. [JS : Understanding JS weird parts notes](https://jasonbaciulis.com/javascript-understanding-the-weird-parts/#5_8211_conceptual_aside_8211_syntax_parser_execution_context_and_lexical_environment)
 145. [JS : Understanding Js  weird parts notes](https://jsbeginners.com/category/javascript-notes-2/understanding-weird-parts-notes/)
-146. [JS : Using ECMAScript 6 today](https://2ality.com/2015/02/es6-scoping.html)
+146. [JS : Variables and scoping in ECMAScript 6
+](https://2ality.com/2015/02/es6-scoping.html)
