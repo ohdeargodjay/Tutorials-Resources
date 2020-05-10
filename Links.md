@@ -167,3 +167,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 157. prototype : Only for function Objects. I will point to anomymous object which gets created during i get created in memory by engine or we can say by Object() function.
 158. [JS : Prototypal Inheritance](https://medium.com/@raviroshan.talk/javascript-prototypal-inheritance-f3a58cfb1179)
 159. [Scalability : What does it mean to say that a framework “scales well”?](https://stackoverflow.com/questions/936461/what-does-it-mean-to-say-that-a-framework-scales-well)
+160. [nodejs : Contributing to Open Source isn’t that hard: my journey to contributing to the Node.js project](https://www.freecodecamp.org/news/contributing-to-open-source-is-not-hard-here-is-my-journey-to-contributing-to-nodejs-d10760e31194/)
