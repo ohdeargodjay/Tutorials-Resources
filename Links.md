@@ -168,3 +168,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 158. [JS : Prototypal Inheritance](https://medium.com/@raviroshan.talk/javascript-prototypal-inheritance-f3a58cfb1179)
 159. [Scalability : What does it mean to say that a framework “scales well”?](https://stackoverflow.com/questions/936461/what-does-it-mean-to-say-that-a-framework-scales-well)
 160. [nodejs : Contributing to Open Source isn’t that hard: my journey to contributing to the Node.js project](https://www.freecodecamp.org/news/contributing-to-open-source-is-not-hard-here-is-my-journey-to-contributing-to-nodejs-d10760e31194/)
+161. [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
