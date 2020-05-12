@@ -171,3 +171,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 161. [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 162. [JS : JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
 163. [JS : Change the value of imported variable in ES6](https://stackoverflow.com/questions/48168601/change-the-value-of-imported-variable-in-es6)
+164. [nodejs : Why (and how) to use eslint in your project](https://medium.com/the-node-js-collection/why-and-how-to-use-eslint-in-your-project-742d0bc61ed7)
