@@ -173,3 +173,5 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 163. [JS : Change the value of imported variable in ES6](https://stackoverflow.com/questions/48168601/change-the-value-of-imported-variable-in-es6)
 164. [nodejs : Why (and how) to use eslint in your project](https://medium.com/the-node-js-collection/why-and-how-to-use-eslint-in-your-project-742d0bc61ed7)
 165. [React : Router](https://www.youtube.com/watch?v=Law7wfdg_ls)
+166. [nodejs :  Write your own nodejs promise library](https://thecodebarbarian.com/write-your-own-node-js-promise-library-from-scratch.html)
+167. [nodejs : The 80/20 Guide to Express Error Handling](https://thecodebarbarian.com/80-20-guide-to-express-error-handling)
