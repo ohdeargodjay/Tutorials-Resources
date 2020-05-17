@@ -180,3 +180,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 170. [JS : Arrow Functions](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
 171. [JS : Best Blogs](https://blog.bitsrc.io/@Sukhjinder)
 172. [JS : Best BLogs](https://blog.sessionstack.com/tagged/tutorial)
+173. [JS : early return  in Promises](https://stackoverflow.com/questions/32536049/do-i-need-to-return-after-early-resolve-reject)
