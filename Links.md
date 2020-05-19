@@ -185,3 +185,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 175. [JS : Writing a JavaScript framework]https://blog.risingstack.com/writing-a-javascript-framework-execution-timing-beyond-settimeout/)
 176. [JS : Legendary Article on Promises and Async Await](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
 177. [JS : Lydia Halie JavaScript Visulized series](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+178. [JS : Inside look at modern web browser]()(https://developers.google.com/web/updates/2018/09/inside-browser-part1)
