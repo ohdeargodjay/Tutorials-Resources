@@ -182,3 +182,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 172. [JS : Best BLogs](https://blog.sessionstack.com/tagged/tutorial)
 173. [JS : early return  in Promises](https://stackoverflow.com/questions/32536049/do-i-need-to-return-after-early-resolve-reject)
 174. [JS : Async Best Lectures colorado University](https://www.cs.colorado.edu/~kena/classes/5828/f16/lectures/)
+175. [JS : Writing a JavaScript framework]https://blog.risingstack.com/writing-a-javascript-framework-execution-timing-beyond-settimeout/)
