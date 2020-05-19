@@ -184,4 +184,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 174. [JS : Async Best Lectures colorado University](https://www.cs.colorado.edu/~kena/classes/5828/f16/lectures/)
 175. [JS : Writing a JavaScript framework]https://blog.risingstack.com/writing-a-javascript-framework-execution-timing-beyond-settimeout/)
 176. [JS : Legendary Article on Promises and Async Await](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
-177. [JS : Lydia Halie JavaScript Visulized series]
+177. [JS : Lydia Halie JavaScript Visulized series](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
