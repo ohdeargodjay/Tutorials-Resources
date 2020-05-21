@@ -187,3 +187,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 177. [JS : Lydia Halie JavaScript Visulized series](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 178. [JS : Inside look at modern web browser]()(https://developers.google.com/web/updates/2018/09/inside-browser-part1)
 179. [Filtering : ](https://stackoverflow.com/questions/52346685/filters-logic-should-be-on-frontend-or-backend)
+180. [mongodb : Pagination](https://www.hacksparrow.com/databases/mongodb/pagination.html)
