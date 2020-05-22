@@ -190,3 +190,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 180. [mongodb : Pagination](https://www.hacksparrow.com/databases/mongodb/pagination.html)
 181. [mongodb : Pagination StackOverflow](https://stackoverflow.com/questions/5049992/mongodb-paging)
 182. [node.js : GET API query araay query params](https://stackoverflow.com/questions/22080770/i-need-to-create-url-for-get-which-is-going-to-accept-array-how-in-node-js-expr)
+183. [API : Validate POST Request body](https://medium.com/@cachecontrol/validating-api-parameters-in-node-js-e8afb7920327)
