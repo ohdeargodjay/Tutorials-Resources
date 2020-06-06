@@ -2,7 +2,6 @@
 7. [Tuts : Notes ehchua](https://www3.ntu.edu.sg/home/ehchua/programming/index.html#Cpp)
 8. [Tuts : http://www.cplusplus.com/](http://www.cplusplus.com/doc/tutorial/)
 2. [IO : endl and \n](https://www.educative.io/edpresso/what-is-the-difference-between-endl-and-n-in-cpp#:~:text=Both%20endl%20and%20%5Cn%20serve,%2C%20whereas%20%5Cn%20does%20not.)
-3. [IO : Basic Input/Output](http://www.cplusplus.com/doc/tutorial/basic_io/)
 4. [IO : How cin works ?](https://stackoverflow.com/a/36914430/6753380)
 5. [IO : cin>> and types](http://www.cplusplus.com/forum/beginner/30770/#:~:text=now%20since%20char%20can%20read,double%20reads%20in%20the%204.)
 6. [IO : cin,cout, >> (Advanced, TBR)](https://stackoverflow.com/a/34384431/6753380)
