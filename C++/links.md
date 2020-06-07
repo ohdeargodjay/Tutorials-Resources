@@ -6,3 +6,4 @@
 5. [IO : cin>> and types](http://www.cplusplus.com/forum/beginner/30770/#:~:text=now%20since%20char%20can%20read,double%20reads%20in%20the%204.)
 6. [IO : cin,cout, >> (Advanced, TBR)](https://stackoverflow.com/a/34384431/6753380)
 7. [ : Namespaces](http://www.cplusplus.com/doc/oldtutorial/namespaces/)
+8. [Undefined behavior and sequence points](https://stackoverflow.com/questions/4176328/undefined-behavior-and-sequence-points)
