@@ -194,3 +194,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 184. [ReactJS - Does render get called any time “setState” is called?](https://stackoverflow.com/questions/24718709/reactjs-does-render-get-called-any-time-setstate-is-called)
 185. [Upload Files : PostMan](https://stackoverflow.com/questions/39037049/how-to-upload-a-file-and-json-data-in-postman#:~:text=In%20postman%2C%20set%20method%20type%20to%20POST.&text=and%20on%20right%20side%20next,normally%20you%20do%20with%20postman.)
 186. [express : mutter for file upload](http://expressjs.com/en/resources/middleware/multer.html)
+187. [JSON + multipart-form-data](https://stackoverflow.com/questions/50774176/sending-file-and-json-in-post-multipart-form-data-request-with-axios)
