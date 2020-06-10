@@ -197,3 +197,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 187. [AXIOS : JSON + multipart-form-data](https://stackoverflow.com/questions/50774176/sending-file-and-json-in-post-multipart-form-data-request-with-axios)
 188. [HTTP POST with URL query parameters — good idea or not? [closed]
 ](https://stackoverflow.com/questions/611906/http-post-with-url-query-parameters-good-idea-or-not)
+189. [MongoDB $lookup on nested document](https://stackoverflow.com/questions/36022456/mongodb-lookup-on-nested-document)
