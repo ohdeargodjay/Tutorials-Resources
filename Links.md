@@ -199,3 +199,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 ](https://stackoverflow.com/questions/611906/http-post-with-url-query-parameters-good-idea-or-not)
 189. [MongoDB $lookup on nested document](https://stackoverflow.com/questions/36022456/mongodb-lookup-on-nested-document)
 190. [mongodb : Aggregations](https://www.compose.com/articles/aggregations-in-mongodb-by-example/)
+191. [mongodb : Conditional $sum in MongoDB ](https://stackoverflow.com/questions/14102596/conditional-sum-in-mongodb)
