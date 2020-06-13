@@ -10,4 +10,4 @@
 9. [Advanced : Undefined behavior and sequence points reloaded (TBR)](https://stackoverflow.com/questions/4638364/undefined-behavior-and-sequence-points-reloaded)
 10. [IO : boolalpha](http://www.cplusplus.com/reference/ios/boolalpha/)
 11. [DataType : size_t : Why it matters ?](https://www.embedded.com/why-size_t-matters/)
-12. [string : npos](http://www.cplusplus.com/reference/string/string/npos/)[npos : StackOverflow](https://stackoverflow.com/questions/3827926/what-does-stringnpos-mean-in-this-code)
+12. [string : npos](http://www.cplusplus.com/reference/string/string/npos/)[  npos : StackOverflow](https://stackoverflow.com/questions/3827926/what-does-stringnpos-mean-in-this-code)
