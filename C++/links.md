@@ -12,3 +12,4 @@
 11. [DataType : size_t : Why it matters ?](https://www.embedded.com/why-size_t-matters/)
 12. [string : npos](http://www.cplusplus.com/reference/string/string/npos/)[  npos : StackOverflow](https://stackoverflow.com/questions/3827926/what-does-stringnpos-mean-in-this-code)
 13. [Memory : How does delete “know” the size of the operand array?](https://stackoverflow.com/questions/197675/how-does-delete-know-the-size-of-the-operand-array)
+14. [Advanced : Understanding the meaning of lvalues and rvalues in C++](https://www.internalpointers.com/post/understanding-meaning-lvalues-and-rvalues-c)
