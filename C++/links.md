@@ -13,3 +13,4 @@
 12. [string : npos](http://www.cplusplus.com/reference/string/string/npos/)[  npos : StackOverflow](https://stackoverflow.com/questions/3827926/what-does-stringnpos-mean-in-this-code)
 13. [Memory : How does delete “know” the size of the operand array?](https://stackoverflow.com/questions/197675/how-does-delete-know-the-size-of-the-operand-array)
 14. [Advanced : Understanding the meaning of lvalues and rvalues in C++](https://www.internalpointers.com/post/understanding-meaning-lvalues-and-rvalues-c)
+15. [OOP : Difference between the move assignment operator and move constructor?](https://stackoverflow.com/questions/29971205/difference-between-the-move-assignment-operator-and-move-constructor#:~:text=A%20move%20constructor%20is%20executed,as%20in%20the%20copy%20case.)
