@@ -203,4 +203,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 192. [nodejs : Internals](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
 193. [React : Upload file multipart-form data](https://www.techiediaries.com/react-formdata-file-upload-multipart-form-tutorial/)
 194. [Flutter : Awesome Blog](https://www.didierboelens.com/)
-195. [FLutter : Lifecycle](https://stackoverflow.com/a/53379776/6753380)
+195. [Flutter : Lifecycle](https://www.bookstack.cn/read/flutterbyexample/aebe8dda4df3319f.md)
