@@ -205,3 +205,5 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 194. [Flutter : Awesome Blog](https://www.didierboelens.com/)
 195. [Flutter : Lifecycle](https://www.bookstack.cn/read/flutterbyexample/aebe8dda4df3319f.md)
 196. [Flutter : Key : When and Why ?](https://www.youtube.com/watch?v=kn0EOS-ZiIc)[Corresponding Medium Article](https://medium.com/flutter/keys-what-are-they-good-for-13cb51742e7d)
+197. [How does an event listener work?
+](https://softwareengineering.stackexchange.com/questions/363397/how-does-an-event-listener-work)
