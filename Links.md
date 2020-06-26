@@ -202,9 +202,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 191. [mongodb : Conditional $sum in MongoDB ](https://stackoverflow.com/questions/14102596/conditional-sum-in-mongodb)
 192. [nodejs : Internals](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
 193. [React : Upload file multipart-form data](https://www.techiediaries.com/react-formdata-file-upload-multipart-form-tutorial/)
-194. [Flutter : Awesome Blog](https://www.didierboelens.com/)
-195. [Flutter : Lifecycle](https://www.bookstack.cn/read/flutterbyexample/aebe8dda4df3319f.md)
-196. [Flutter : Key : When and Why ?](https://www.youtube.com/watch?v=kn0EOS-ZiIc)[Corresponding Medium Article](https://medium.com/flutter/keys-what-are-they-good-for-13cb51742e7d)
-197. [How does an event listener work?
-](https://softwareengineering.stackexchange.com/questions/363397/how-does-an-event-listener-work)
-198.[Flutter : Builder builder](https://stackoverflow.com/questions/52088889/can-someone-explain-to-me-what-the-builder-class-does-in-flutter#:~:text=Terminology%3A,name%20for%20a%20lambda%20function.)
+
