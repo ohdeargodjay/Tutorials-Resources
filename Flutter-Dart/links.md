@@ -1,6 +1,7 @@
 1. [Dart : Tour of language](https://dart.dev/guides/language/language-tour#declaring-async-functions)
 1. [Dart-Async : Awesome Blog](https://www.didierboelens.com/2019/01/futures-isolates-event-loop/)
-2. [Dart-Async : Flutter ooficial YT videos](https://www.youtube.com/playlist?list=PLjxrf2q8roU0Net_g1NT5_vOO3s_FR02J)
+2. [Dart-Async : Flutter official YT videos](https://www.youtube.com/watch?v=J5DQRPRBiFI&list=PLjxrf2q8roU0Net_g1NT5_vOO3s_FR02J&index=7&t=0s)
+3. [Dart-Internals : Dart and Flutter Ecosystem](https://www.youtube.com/watch?v=J5DQRPRBiFI&list=PLjxrf2q8roU0Net_g1NT5_vOO3s_FR02J&index=7&t=0s)
 2. [Flutter : Awesome Blog](https://www.didierboelens.com/)
 3. [Flutter : Lifecycle](https://www.bookstack.cn/read/flutterbyexample/aebe8dda4df3319f.md)
 4. [Flutter : Key : When and Why ?](https://www.youtube.com/watch?v=kn0EOS-ZiIc)[Corresponding Medium Article](https://medium.com/flutter/keys-what-are-they-good-for-13cb51742e7d)
