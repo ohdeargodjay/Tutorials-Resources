@@ -1,4 +1,4 @@
-2. [Dart : Tour of language](https://dart.dev/guides/language/language-tour#declaring-async-functions)
+1. [Dart : Tour of language](https://dart.dev/guides/language/language-tour#declaring-async-functions)
 1. [Dart-Async : Awesome Blog](https://www.didierboelens.com/2019/01/futures-isolates-event-loop/)
 2. [Flutter : Awesome Blog](https://www.didierboelens.com/)
 3. [Flutter : Lifecycle](https://www.bookstack.cn/read/flutterbyexample/aebe8dda4df3319f.md)
