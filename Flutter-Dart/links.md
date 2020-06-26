@@ -2,6 +2,7 @@
 1. [Dart-Async : Awesome Blog](https://www.didierboelens.com/2019/01/futures-isolates-event-loop/)
 2. [Dart-Async : Flutter official YT videos](https://www.youtube.com/watch?v=J5DQRPRBiFI&list=PLjxrf2q8roU0Net_g1NT5_vOO3s_FR02J&index=7&t=0s)
 3. [Dart-Internals : Dart and Flutter Ecosystem](https://www.youtube.com/watch?v=J5DQRPRBiFI&list=PLjxrf2q8roU0Net_g1NT5_vOO3s_FR02J&index=7&t=0s)
+4. [Dart-Advanced : How VM it works ](https://mrale.ph/dartvm/)
 4. [Flutter-Internals : Web Book](https://www.flutterinternals.org/data-model/elements#how-does-element-inheritance-work)
 2. [Flutter : Legendary Blog](https://www.didierboelens.com/)
 3. [Flutter : Lifecycle of Widgets](https://www.bookstack.cn/read/flutterbyexample/aebe8dda4df3319f.md)
