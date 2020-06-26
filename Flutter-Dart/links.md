@@ -3,7 +3,8 @@
 2. [Dart-Async : Flutter official YT videos](https://www.youtube.com/watch?v=J5DQRPRBiFI&list=PLjxrf2q8roU0Net_g1NT5_vOO3s_FR02J&index=7&t=0s)
 3. [Dart-Internals : Dart and Flutter Ecosystem](https://www.youtube.com/watch?v=J5DQRPRBiFI&list=PLjxrf2q8roU0Net_g1NT5_vOO3s_FR02J&index=7&t=0s)
 4. [Dart-Advanced : How VM it works ](https://mrale.ph/dartvm/)
-4. [Flutter-Internals : Web Book](https://www.flutterinternals.org/data-model/elements#how-does-element-inheritance-work)
+4. [Flutter-Book : Book on Flutter Internals](https://www.flutterinternals.org/data-model/elements#how-does-element-inheritance-work)
+8. [Flutter-Book : Book by-China FLutter Team](https://book.flutterchina.club/chapter2/thread_model_and_error_report.html)
 2. [Flutter : Legendary Blog](https://www.didierboelens.com/)
 3. [Flutter : Lifecycle of Widgets](https://www.bookstack.cn/read/flutterbyexample/aebe8dda4df3319f.md)
 4. [Flutter : Key : When and Why ?](https://www.youtube.com/watch?v=kn0EOS-ZiIc)[ Corresponding Medium Article](https://medium.com/flutter/keys-what-are-they-good-for-13cb51742e7d)
@@ -11,4 +12,4 @@
 ](https://softwareengineering.stackexchange.com/questions/363397/how-does-an-event-listener-work)
 6.[Flutter : Builder builder](https://stackoverflow.com/questions/52088889/can-someone-explain-to-me-what-the-builder-class-does-in-flutter#:~:text=Terminology%3A,name%20for%20a%20lambda%20function.)
 7. [Flutter : How Flutter Works](https://buildflutter.com/how-flutter-works/#:~:text=Rendering%20Pipeline,Skia%20Canvas%20as%20it%20changes.&text=Dart%20based%20application%20code%20will,when%20touching%20UI%20related%20components)[ ; Flutter System Architecture](https://docs.google.com/presentation/d/1cw7A4HbvM_Abv320rVgPVGiUP2msVs7tfGbkgdrTy0I/edit#slide=id.p)
-8. [Flutter : Awesome Open Book](https://book.flutterchina.club/chapter2/thread_model_and_error_report.html)
+
