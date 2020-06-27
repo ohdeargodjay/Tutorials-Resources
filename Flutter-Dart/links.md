@@ -5,6 +5,7 @@
 4. [Dart-Advanced : How VM it works ](https://mrale.ph/dartvm/)
 4. [Flutter-Book : Book on Flutter Internals](https://www.flutterinternals.org/data-model/elements#how-does-element-inheritance-work)
 8. [Flutter-Book : Book by-China FLutter Team](https://book.flutterchina.club/chapter2/thread_model_and_error_report.html)
+9. [Flutter : Abstraction Stack](https://medium.com/flutter-community/the-layer-cake-widgets-elements-renderobjects-7644c3142401)
 2. [Flutter : Legendary Blog](https://www.didierboelens.com/)
 3. [Flutter : Lifecycle of Widgets](https://www.bookstack.cn/read/flutterbyexample/aebe8dda4df3319f.md)
 4. [Flutter : Key : When and Why ?](https://www.youtube.com/watch?v=kn0EOS-ZiIc)[ Corresponding Medium Article](https://medium.com/flutter/keys-what-are-they-good-for-13cb51742e7d)
