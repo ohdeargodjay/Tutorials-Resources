@@ -11,6 +11,7 @@
 2. [Flutter : Legendary Blog](https://www.didierboelens.com/)
 3. [Flutter : Lifecycle of Widgets](https://www.bookstack.cn/read/flutterbyexample/aebe8dda4df3319f.md)
 12. [FLutter-Tool : Must have VS code extensions](https://resocoder.com/2019/07/04/vs-code-extensions-every-flutter-developer-should-have/)
+13. [FLutter-Tool : Must have VS code shortcuts](https://medium.com/flutter-community/flutter-visual-studio-code-shortcuts-for-fast-and-efficient-development-7235bc6c3b7d)
 4. [Flutter : Key : When and Why ?](https://www.youtube.com/watch?v=kn0EOS-ZiIc)[ Corresponding Medium Article](https://medium.com/flutter/keys-what-are-they-good-for-13cb51742e7d)
 5. [How does an event listener work?
 ](https://softwareengineering.stackexchange.com/questions/363397/how-does-an-event-listener-work)
