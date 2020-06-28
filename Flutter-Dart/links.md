@@ -22,4 +22,4 @@
 10. [Dart : const, static, final](https://news.dartlang.org/2012/06/const-static-final-oh-my.html)
 10. [Dart : How does const constructor work ?](https://stackoverflow.com/a/21746692/6753380)[ const constructor-dart offical docs](https://dart.dev/guides/language/language-tour#constant-constructors)
 11. [FLutter : Hot Reload How, When and When Not ?](https://flutter.dev/docs/development/tools/hot-reload#:~:text=Hot%20reload%20works%20by%20injecting,the%20effects%20of%20your%20changes.)
-12. [Flutter : Themes](https://www.didierboelens.com/2020/05/material-textstyle-texttheme/)[ Remember ThemeData takes 3 TesxThemes , each textTheme contains of Text Styles (headline1, headline2, caption ..... etc)]
+12. [Flutter : Themes](https://www.didierboelens.com/2020/05/material-textstyle-texttheme/)[ Remember ThemeData takes 3 TextThemes , each textTheme contains of Text Styles (headline1, headline2, caption ..... etc)]
