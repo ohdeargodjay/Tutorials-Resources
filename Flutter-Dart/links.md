@@ -18,3 +18,4 @@
 8. [Flutter : itsallwidgets.com](https://itsallwidgets.com/)
 9. [Flutter : Architecture Thoughts](https://buildflutter.com/architecture/)
 10. [Dart : How does const constructor work ?](https://stackoverflow.com/a/21746692/6753380)[ const constructor-dart offical docs](https://dart.dev/guides/language/language-tour#constant-constructors)
+11. [FLutter : Hot Reload How, When and When Not ?](https://flutter.dev/docs/development/tools/hot-reload#:~:text=Hot%20reload%20works%20by%20injecting,the%20effects%20of%20your%20changes.)
