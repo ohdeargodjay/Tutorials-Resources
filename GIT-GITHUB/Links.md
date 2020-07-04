@@ -2,3 +2,4 @@
 2. [Edureka: Click on Section *Mastering Git and GitHub* (All 11 blog Posts)](https://www.edureka.co/blog/category/devops/)
 3. [MarkDown for GitHub](https://guides.github.com/features/mastering-markdown/)
 4. [MarkDown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
+5. [Publish Project to Github via VScode](https://stackoverflow.com/questions/46877667/how-to-add-a-new-project-to-github-using-vs-code)
