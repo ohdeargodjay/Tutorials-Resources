@@ -204,3 +204,4 @@ Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-comman
 193. [React : Upload file multipart-form data](https://www.techiediaries.com/react-formdata-file-upload-multipart-form-tutorial/)
 194. [JS : check a value is null, undefibed, false, empty , ""](https://stackoverflow.com/questions/5515310/is-there-a-standard-function-to-check-for-null-undefined-or-blank-variables-in) 
 195. [JS : DateTime and TimeZones](https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d)
+196. [JS : Testing for arrays and objects](https://medium.com/building-ibotta/testing-arrays-and-objects-with-chai-js-4b372310fe6d)
