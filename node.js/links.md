@@ -2,3 +2,4 @@
 2. [Books : Great small consise Free e-books](https://risingstack.com/resources)
 3. [Modules : CommonJs : What and How and Why ?](https://www.oreilly.com/library/view/learning-javascript-design/9781449334840/ch11s03.html#:~:text=From%20a%20structure%20perspective%2C%20a,define%20here%2C%20for%20example)
 4. [V8 : (Abstract View) JavaScript V8 Engine Explained](https://hackernoon.com/javascript-v8-engine-explained-3f940148d4ef)
+5. [HTTP : Squeeze the juice out of Node— an exploration of how Node.js handles HTTP connections](https://www.yld.io/blog/squeeze-the-juice-out-of-node-an-exploration-of-how-node-js-handles-http-connections/)
