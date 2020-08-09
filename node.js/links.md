@@ -16,6 +16,7 @@
    2. Event Loop
       1. [The Node.js Event Loop, Timers, and process.nextTick()](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
       2. [What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
+      3. [Understanding the Node.js event loop phases and how it executes the JavaScript code.](https://dev.to/lunaticmonk/understanding-the-node-js-event-loop-phases-and-how-it-executes-the-javascript-code-1j9)
       3. [Phases of the Node JS Event Loop](https://medium.com/@kunaltandon.kt/process-nexttick-vs-setimmediate-vs-settimeout-explained-wrt-different-event-loop-phases-c0506b12921d)
 5. [HTTP : Squeeze the juice out of Node— an exploration of how Node.js handles HTTP connections](https://www.yld.io/blog/squeeze-the-juice-out-of-node-an-exploration-of-how-node-js-handles-http-connections/)
 6. NodeJs Articles Series
