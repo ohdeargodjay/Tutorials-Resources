@@ -11,3 +11,5 @@
    4. [  Why cpu bound is better with blocking I/O and I/O bound is better with non blocking I/O
 ](https://stackoverflow.com/questions/34877705/why-cpu-bound-is-better-with-blocking-i-o-and-i-o-bound-is-better-with-non-block)
 5. [HTTP : Squeeze the juice out of Node— an exploration of how Node.js handles HTTP connections](https://www.yld.io/blog/squeeze-the-juice-out-of-node-an-exploration-of-how-node-js-handles-http-connections/)
+6. NodeJs Articles Series
+   1. [Node.js Under The Hood Series' Articles](https://dev.to/khaosdoctor/series/2008)
