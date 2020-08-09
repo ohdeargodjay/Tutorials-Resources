@@ -12,6 +12,7 @@
    4. [Why so many threads hurts performance ?](https://www.codeguru.com/cpp/sample_chapter/article.php/c13533/Why-Too-Many-Threads-Hurts-Performance-and-What-to-do-About-It.htm)
    4. [  Why cpu bound is better with blocking I/O and I/O bound is better with non blocking I/O
 ](https://stackoverflow.com/questions/34877705/why-cpu-bound-is-better-with-blocking-i-o-and-i-o-bound-is-better-with-non-block)
+   5. [The Node.js Event Loop, Timers, and process.nextTick()](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
    5. [What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
 5. [HTTP : Squeeze the juice out of Node— an exploration of how Node.js handles HTTP connections](https://www.yld.io/blog/squeeze-the-juice-out-of-node-an-exploration-of-how-node-js-handles-http-connections/)
 6. NodeJs Articles Series
