@@ -7,6 +7,7 @@
    1. [  How, in general, does Node.js handle 10,000 concurrent requests?](https://stackoverflow.com/questions/34855352/how-in-general-does-node-js-handle-10-000-concurrent-requests)
    1. [The Node.js Event Loop: Not So Single Threaded](https://www.youtube.com/watch?v=zphcsoSJMvM)
    2. [  Video : Node's Event Loop From the Inside Out](https://www.youtube.com/watch?v=P9csgxBgaZ8&t=104s)
+   3. [Demystifiying epoll()](https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/)
    3. [  Is non-blocking I/O really faster than multi-threaded blocking I/O? How?](https://stackoverflow.com/questions/8546273/is-non-blocking-i-o-really-faster-than-multi-threaded-blocking-i-o-how)
    4. [Why so many threads hurts performance ?](https://www.codeguru.com/cpp/sample_chapter/article.php/c13533/Why-Too-Many-Threads-Hurts-Performance-and-What-to-do-About-It.htm)
    4. [  Why cpu bound is better with blocking I/O and I/O bound is better with non blocking I/O
