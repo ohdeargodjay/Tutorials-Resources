@@ -14,5 +14,4 @@
    5. [(Advanced) C10k problem](http://www.kegel.com/c10k.html)
 7. [WebSockets](https://www.youtube.com/watch?v=2Nt-ZrNP22A&t=979s)
    1. [WebSockets : Intro and code in nodejs, has more links in descriprition](https://www.youtube.com/watch?v=2Nt-ZrNP22A&t=979s)
-8. [Concepts and Design Patterns
-Understand how realtime features and event-driven APIs work under the hood by learning more about protocols and core realtime concepts.](https://www.ably.io/concepts)
+8. [Realtime, Event-driven APIs Concepts Articles series](https://www.ably.io/concepts)
