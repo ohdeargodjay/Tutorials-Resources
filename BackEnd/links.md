@@ -12,4 +12,6 @@
       4. [  Why cpu bound is better with blocking I/O and I/O bound is better with non blocking I/O](https://stackoverflow.com/questions/34877705/why-cpu-bound-is-better-with-blocking-i-o-and-i-o-bound-is-better-with-non-block)
       6. [Demystifiying epoll()](https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/)
    5. [(Advanced) C10k problem](http://www.kegel.com/c10k.html)
+7. [WebSockets](https://www.youtube.com/watch?v=2Nt-ZrNP22A&t=979s)
+   1. [WebSockets : Intro and code in nodejs, has more links in descriprition](https://www.youtube.com/watch?v=2Nt-ZrNP22A&t=979s)
    
