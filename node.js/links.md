@@ -21,3 +21,5 @@
 5. [HTTP : Squeeze the juice out of Node— an exploration of how Node.js handles HTTP connections](https://www.yld.io/blog/squeeze-the-juice-out-of-node-an-exploration-of-how-node-js-handles-http-connections/)
 6. NodeJs Articles Series
    1. [Node.js Under The Hood Series' Articles](https://dev.to/khaosdoctor/series/2008)
+7. [WebSockets](https://www.youtube.com/watch?v=2Nt-ZrNP22A&t=979s)
+   1. [WebSockets : Intro and code in nodejs, has more links in descriprition](https://www.youtube.com/watch?v=2Nt-ZrNP22A&t=979s)
