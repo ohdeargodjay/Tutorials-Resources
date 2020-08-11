@@ -13,7 +13,16 @@
       6. [Demystifiying epoll()](https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/)
    5. [(Advanced) C10k problem](http://www.kegel.com/c10k.html)
 7. WebSockets
-   1. [https://www.youtube.com/watch?v=sUEq35F-ELY](https://www.youtube.com/watch?v=sUEq35F-ELY)
-   1. [Intro and code in nodejs, has more links in descriprition](https://www.youtube.com/watch?v=2Nt-ZrNP22A&t=979s)
-   1. [Do you really need WebSockets?](https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b)
+   1. WebSockets
+      1. [https://www.youtube.com/watch?v=sUEq35F-ELY](https://www.youtube.com/watch?v=sUEq35F-ELY)
+      1. [Intro and code in nodejs, has more links in descriprition](https://www.youtube.com/watch?v=2Nt-ZrNP22A&t=979s)
+      1. [Do you really need WebSockets?](https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b)
+   2. Socket.io
+      1. Theory
+      2. Implementation
+         1. [Get started with socket.io](https://socket.io/get-started/chat/)
+      
+         
+      
+   
 8. [Realtime, Event-driven APIs Concepts Articles series](https://www.ably.io/concepts)
