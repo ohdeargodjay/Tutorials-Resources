@@ -21,8 +21,4 @@
       1. Theory
       2. Implementation
          1. [Get started with socket.io](https://socket.io/get-started/chat/)
-      
-         
-      
-   
 8. [Realtime, Event-driven APIs Concepts Articles series](https://www.ably.io/concepts)
