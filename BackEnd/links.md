@@ -25,6 +25,9 @@
       1. [Do you really need WebSockets?](https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b)
    2. Socket.io
       1. Theory
+         1. [Video : Introduction in nodejs](https://www.youtube.com/watch?v=soerr09FYCw)
+         2. [Video : Namespaces, Rooms and Connections in nodejs](https://www.youtube.com/watch?v=bxUlKDgpbWs)
       2. Implementation
-         1. [Get started with socket.io](https://socket.io/get-started/chat/) [    Node.js Socket.io Introduction ](https://www.youtube.com/watch?v=soerr09FYCw)
+         1. [Get started with socket.io](https://socket.io/get-started/chat/) 
+         
 8. [Realtime, Event-driven APIs Concepts Articles series](https://www.ably.io/concepts)
