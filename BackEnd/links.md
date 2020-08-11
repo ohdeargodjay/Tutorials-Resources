@@ -13,6 +13,7 @@
    3. [Networking-HTTP, Websockets : HTTP and Websockets: Understanding the capabilities of today’s web communication technologies](https://medium.com/platform-engineer/web-api-design-35df8167460)
    4. [Networking-HTTP : Squeeze the juice out of Node— an exploration of how Node.js handles HTTP connections](https://www.yld.io/blog/squeeze-the-juice-out-of-node-an-exploration-of-how-node-js-handles-http-connections/)
    5. [Difference between sockets and ports](https://stackoverflow.com/questions/152457/what-is-the-difference-between-a-port-and-a-socket#:~:text=A%20socket%20represents%20a%20single%20connection%20between%20two%20network%20applications.&text=A%20port%20represents%20an%20endpoint,without%20interfering%20with%20each%20other.)
+   6. [TCP: can two different sockets share a port?](https://stackoverflow.com/questions/11129212/tcp-can-two-different-sockets-share-a-port#:~:text=5%20Answers&text=A%20server%20socket%20listens%20on%20a%20single%20port.&text=Multiple%20connections%20on%20the%20same,system%20resources%20allow%20it%20to.)
 3. WebSockets
    1. WebSockets
       1. [https://www.youtube.com/watch?v=sUEq35F-ELY](https://www.youtube.com/watch?v=sUEq35F-ELY)
