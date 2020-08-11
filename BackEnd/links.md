@@ -8,11 +8,11 @@
       6. [Demystifiying epoll()](https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/)
    5. [(Advanced) C10k problem](http://www.kegel.com/c10k.html)
 2. Networks
-   2. [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/#client-server-background)
-   3. [Networking-HTTP : Evolution of HTTP](https://medium.com/platform-engineer/evolution-of-http-69cfe6531ba0)
-   4. [Networking-HTTP, Websockets : HTTP and Websockets: Understanding the capabilities of today’s web communication technologies](https://medium.com/platform-engineer/web-api-design-35df8167460)
-   5. [Networking-HTTP : Squeeze the juice out of Node— an exploration of how Node.js handles HTTP connections](https://www.yld.io/blog/squeeze-the-juice-out-of-node-an-exploration-of-how-node-js-handles-http-connections/)
-   8. [Difference between sockets and ports](https://stackoverflow.com/questions/152457/what-is-the-difference-between-a-port-and-a-socket#:~:text=A%20socket%20represents%20a%20single%20connection%20between%20two%20network%20applications.&text=A%20port%20represents%20an%20endpoint,without%20interfering%20with%20each%20other.)
+   1. [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/#client-server-background)
+   2. [Networking-HTTP : Evolution of HTTP](https://medium.com/platform-engineer/evolution-of-http-69cfe6531ba0)
+   3. [Networking-HTTP, Websockets : HTTP and Websockets: Understanding the capabilities of today’s web communication technologies](https://medium.com/platform-engineer/web-api-design-35df8167460)
+   4. [Networking-HTTP : Squeeze the juice out of Node— an exploration of how Node.js handles HTTP connections](https://www.yld.io/blog/squeeze-the-juice-out-of-node-an-exploration-of-how-node-js-handles-http-connections/)
+   5. [Difference between sockets and ports](https://stackoverflow.com/questions/152457/what-is-the-difference-between-a-port-and-a-socket#:~:text=A%20socket%20represents%20a%20single%20connection%20between%20two%20network%20applications.&text=A%20port%20represents%20an%20endpoint,without%20interfering%20with%20each%20other.)
 3. WebSockets
    1. WebSockets
       1. [https://www.youtube.com/watch?v=sUEq35F-ELY](https://www.youtube.com/watch?v=sUEq35F-ELY)
