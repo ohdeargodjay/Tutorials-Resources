@@ -26,5 +26,5 @@
    2. Socket.io
       1. Theory
       2. Implementation
-         1. [Get started with socket.io](https://socket.io/get-started/chat/)
+         1. [Get started with socket.io](https://socket.io/get-started/chat/) [    Node.js Socket.io Introduction ](https://www.youtube.com/watch?v=soerr09FYCw)
 8. [Realtime, Event-driven APIs Concepts Articles series](https://www.ably.io/concepts)
