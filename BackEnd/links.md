@@ -16,6 +16,8 @@
    6. [TCP: can two different sockets share a port?](https://stackoverflow.com/questions/11129212/tcp-can-two-different-sockets-share-a-port#:~:text=5%20Answers&text=A%20server%20socket%20listens%20on%20a%20single%20port.&text=Multiple%20connections%20on%20the%20same,system%20resources%20allow%20it%20to.)
    7. [How do multiple clients connect simultaneously to one port, say 80, on a server?
 ](https://stackoverflow.com/a/11344212/6753380)
+   8. [Does the port change when a server accepts a TCP connection?
+](https://stackoverflow.com/questions/2997754/does-the-port-change-when-a-server-accepts-a-tcp-connection)
 3. WebSockets
    1. WebSockets
       1. [https://www.youtube.com/watch?v=sUEq35F-ELY](https://www.youtube.com/watch?v=sUEq35F-ELY)
