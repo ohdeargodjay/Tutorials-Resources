@@ -4,7 +4,7 @@
       1. [  How, in general, does Node.js handle 10,000 concurrent requests?](https://stackoverflow.com/questions/34855352/how-in-general-does-node-js-handle-10-000-concurrent-requests)
       2. [  Is non-blocking I/O really faster than multi-threaded blocking I/O? How?](https://stackoverflow.com/questions/8546273/is-non-blocking-i-o-really-faster-than-multi-threaded-blocking-i-o-how)
       3. [Why so many threads hurts performance ?](https://www.codeguru.com/cpp/sample_chapter/article.php/c13533/Why-Too-Many-Threads-Hurts-Performance-and-What-to-do-About-It.htm)
-      4. [  Why cpu bound is better with blocking I/O and I/O bound is better with non blocking I/O](https://stackoverflow.com/questions/34877705/why-cpu-bound-is-better-with-blocking-i-o-and-i-o-bound-is-better-with-non-block)
+      4. [Why cpu bound is better with blocking I/O and I/O bound is better with non blocking I/O](https://stackoverflow.com/questions/34877705/why-cpu-bound-is-better-with-blocking-i-o-and-i-o-bound-is-better-with-non-block)
       6. [Demystifiying epoll()](https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/)
    5. [(Advanced) C10k problem](http://www.kegel.com/c10k.html)
 2. Networks
@@ -24,10 +24,8 @@
       1. [Intro and code in nodejs, has more links in descriprition](https://www.youtube.com/watch?v=2Nt-ZrNP22A&t=979s)
       1. [Do you really need WebSockets?](https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b)
    2. Socket.io
-      1. Theory
-         1. [Video : Introduction in nodejs](https://www.youtube.com/watch?v=soerr09FYCw)
-         2. [Video : Namespaces, Rooms and Connections in nodejs](https://www.youtube.com/watch?v=bxUlKDgpbWs)
-      2. Implementation
-         1. [Get started with socket.io](https://socket.io/get-started/chat/) 
+      1. [Video : Introduction in nodejs](https://www.youtube.com/watch?v=soerr09FYCw)[; Get started with socket.io](https://socket.io/get-started/chat/) 
+      2. [Video : Namespaces, Rooms and Connections in nodejs](https://www.youtube.com/watch?v=bxUlKDgpbWs)
+         
          
 8. [Realtime, Event-driven APIs Concepts Articles series](https://www.ably.io/concepts)
