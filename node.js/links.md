@@ -23,5 +23,8 @@
    1. [Node.js Under The Hood Series' Articles](https://dev.to/khaosdoctor/series/2008)
 7. [WebSockets](https://www.youtube.com/watch?v=2Nt-ZrNP22A&t=979s)
    1. [WebSockets : Intro and code in nodejs, has more links in descriprition](https://www.youtube.com/watch?v=2Nt-ZrNP22A&t=979s)
-8. Implementation
-   1. [Node JS Cluster with MQTT, Socket.IO, Redis and Sticky Sessions.](https://medium.com/@jadejayashraj/node-js-cluster-with-mqtt-socket-io-redis-and-sticky-sessions-d5be72ef65f0)
+   2. [Socket.io : Using multiple nodes](https://socket.io/docs/using-multiple-nodes/)
+   3. [Node JS Cluster with MQTT, Socket.IO, Redis and Sticky Sessions.](https://medium.com/@jadejayashraj/node-js-cluster-with-mqtt-socket-io-redis-and-sticky-sessions-d5be72ef65f0)
+   
+
+   
