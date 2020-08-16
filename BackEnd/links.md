@@ -31,6 +31,8 @@
       3. [Resources consumption for Websockets, long polling, short polling](https://www.diva-portal.org/smash/get/diva2:1133465/FULLTEXT01.pdf)
       5. [Network Bandwidth : At what point are WebSockets less efficient than Polling ? 
       ](https://stackoverflow.com/questions/44731313/at-what-point-are-websockets-less-efficient-than-polling)
+      6. [What is the fundamental difference between WebSockets and pure TCP?
+](https://stackoverflow.com/questions/2681267/what-is-the-fundamental-difference-between-websockets-and-pure-tcp?rq=1)
    4. Misc.
       1. [Realtime, Event-driven APIs Concepts Articles series](https://www.ably.io/concepts)
       4. [Pubnb blogs on real time systems](https://www.pubnub.com/blog/)
