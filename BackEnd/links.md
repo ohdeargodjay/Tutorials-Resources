@@ -18,6 +18,8 @@
 ](https://stackoverflow.com/a/11344212/6753380)
    8. [Does the port change when a server accepts a TCP connection?
 ](https://stackoverflow.com/questions/2997754/does-the-port-change-when-a-server-accepts-a-tcp-connection)
+   9. [Why websocket needs an opening handshake using HTTP? Why can't it be an independent protocol?
+](https://stackoverflow.com/questions/19568432/why-websocket-needs-an-opening-handshake-using-http-why-cant-it-be-an-independ/19569871#19569871)
 3. RealTime
    1. WebSockets
       1. [https://www.youtube.com/watch?v=sUEq35F-ELY](https://www.youtube.com/watch?v=sUEq35F-ELY)
