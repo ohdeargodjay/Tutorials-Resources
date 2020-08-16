@@ -18,8 +18,8 @@
 ](https://stackoverflow.com/a/11344212/6753380)
    8. [Does the port change when a server accepts a TCP connection?
 ](https://stackoverflow.com/questions/2997754/does-the-port-change-when-a-server-accepts-a-tcp-connection)
-   9. [Why websocket needs an opening handshake using HTTP? Why can't it be an independent protocol?
-](https://stackoverflow.com/questions/19568432/why-websocket-needs-an-opening-handshake-using-http-why-cant-it-be-an-independ/19569871#19569871)
+   9. [How does a browser establish connection with a web server on 80 port? Details?
+](https://stackoverflow.com/questions/35387835/how-does-a-browser-establish-connection-with-a-web-server-on-80-port-details)
 3. RealTime
    1. WebSockets
       1. [https://www.youtube.com/watch?v=sUEq35F-ELY](https://www.youtube.com/watch?v=sUEq35F-ELY)
@@ -39,6 +39,10 @@
 ](https://stackoverflow.com/questions/2681267/what-is-the-fundamental-difference-between-websockets-and-pure-tcp?rq=1)
       7. [How WebSocket server handles multiple incoming connection requests?
 ](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests?noredirect=1&lq=1)
+      9. [Why websocket needs an opening handshake using HTTP? Why can't it be an independent protocol?
+](https://stackoverflow.com/questions/19568432/why-websocket-needs-an-opening-handshake-using-http-why-cant-it-be-an-independ/19569871#19569871)
+      10. [Proxying WebSockets with TCP load balancer without sticky sessions
+](https://stackoverflow.com/questions/15266702/proxying-websockets-with-tcp-load-balancer-without-sticky-sessions/15270860#15270860)
    4. Misc.
       1. [Realtime, Event-driven APIs Concepts Articles series](https://www.ably.io/concepts)
       4. [Pubnb blogs on real time systems](https://www.pubnub.com/blog/)
