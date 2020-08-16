@@ -33,6 +33,10 @@
       ](https://stackoverflow.com/questions/44731313/at-what-point-are-websockets-less-efficient-than-polling)
       6. [What is the fundamental difference between WebSockets and pure TCP? (Do read comments)
 ](https://stackoverflow.com/questions/2681267/what-is-the-fundamental-difference-between-websockets-and-pure-tcp?rq=1)
+      7. [Differences between TCP sockets and web sockets, one more time [duplicate]
+](https://stackoverflow.com/questions/2681267/what-is-the-fundamental-difference-between-websockets-and-pure-tcp?rq=1)
+      7. [How WebSocket server handles multiple incoming connection requests?
+](https://stackoverflow.com/questions/28516962/how-websocket-server-handles-multiple-incoming-connection-requests?noredirect=1&lq=1)
    4. Misc.
       1. [Realtime, Event-driven APIs Concepts Articles series](https://www.ably.io/concepts)
       4. [Pubnb blogs on real time systems](https://www.pubnub.com/blog/)
