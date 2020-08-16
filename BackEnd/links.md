@@ -29,3 +29,5 @@
          
          
 8. [Realtime, Event-driven APIs Concepts Articles series](https://www.ably.io/concepts)
+9. Sessions 
+   1. [Sticky Sessions](https://stackoverflow.com/questions/10494431/sticky-and-non-sticky-sessions)[ Sticky Session](https://www.imperva.com/learn/availability/sticky-session-persistence-and-cookies/)
