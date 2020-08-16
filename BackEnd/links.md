@@ -29,5 +29,6 @@
 8. [Realtime, Event-driven APIs Concepts Articles series](https://www.ably.io/concepts)
 9. [Resources consumption for Websockets, long polling, http](https://qiuzhihui.gitbooks.io/r-book/content/system-design/short-polling-v-long-polling-vs-websocket.html)
 9. [Resources consumption for Websockets, long polling, http](https://www.diva-portal.org/smash/get/diva2:1133465/FULLTEXT01.pdf)
+10. [Pubnb blogs on real time s](https://www.pubnub.com/blog/)
 9. Sessions 
    1. [Sticky Sessions](https://stackoverflow.com/questions/10494431/sticky-and-non-sticky-sessions)[ Sticky Session](https://www.imperva.com/learn/availability/sticky-session-persistence-and-cookies/)
