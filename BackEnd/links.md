@@ -29,9 +29,9 @@
    3. Performance 
       1. [Resources consumption for Websockets, long polling, http](https://qiuzhihui.gitbooks.io/r-book/content/system-design/short-polling-v-long-polling-vs-websocket.html)
       3. [Resources consumption for Websockets, long polling, short polling](https://www.diva-portal.org/smash/get/diva2:1133465/FULLTEXT01.pdf)
-      5. [Network Bandwidth : At what point are WebSockets less efficient than Polling ? 
+      5. [Network Bandwidth : At what point are WebSockets less efficient than Polling ?  (Do read comments)
       ](https://stackoverflow.com/questions/44731313/at-what-point-are-websockets-less-efficient-than-polling)
-      6. [What is the fundamental difference between WebSockets and pure TCP?
+      6. [What is the fundamental difference between WebSockets and pure TCP? (Do read comments)
 ](https://stackoverflow.com/questions/2681267/what-is-the-fundamental-difference-between-websockets-and-pure-tcp?rq=1)
    4. Misc.
       1. [Realtime, Event-driven APIs Concepts Articles series](https://www.ably.io/concepts)
