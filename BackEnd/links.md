@@ -46,9 +46,8 @@
    4. Misc.
       1. [Realtime, Event-driven APIs Concepts Articles series](https://www.ably.io/concepts)
       4. [Pubnb blogs on real time systems](https://www.pubnub.com/blog/)
-9. Sessions 
+3. Sessions 
    1. [Sticky Sessions](https://stackoverflow.com/questions/10494431/sticky-and-non-sticky-sessions)[ Sticky Session](https://www.imperva.com/learn/availability/sticky-session-persistence-and-cookies/)
-   
-10. General Programming
+4. General Programming
    1. [Difference between compiled and interpreted languages?
 ](https://stackoverflow.com/questions/38491212/difference-between-compiled-and-interpreted-languages/38491646#38491646)
