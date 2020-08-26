@@ -43,6 +43,7 @@
 ](https://stackoverflow.com/questions/19568432/why-websocket-needs-an-opening-handshake-using-http-why-cant-it-be-an-independ/19569871#19569871)
       10. [Proxying WebSockets with TCP load balancer without sticky sessions
 ](https://stackoverflow.com/questions/15266702/proxying-websockets-with-tcp-load-balancer-without-sticky-sessions/15270860#15270860)
+      11. [Socket-io : Performance for sending ping pong messages](https://stackoverflow.com/questions/49865832/pingtimeout-and-pinginterval-in-socket-io)
    4. Misc.
       1. [Realtime, Event-driven APIs Concepts Articles series](https://www.ably.io/concepts)
       4. [Pubnb blogs on real time systems](https://www.pubnub.com/blog/)
