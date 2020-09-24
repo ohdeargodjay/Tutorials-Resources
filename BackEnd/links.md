@@ -52,3 +52,5 @@
 4. General Programming
    1. [Difference between compiled and interpreted languages?
 ](https://stackoverflow.com/questions/38491212/difference-between-compiled-and-interpreted-languages/38491646#38491646)
+5. Authentication
+   1. [What is Firebase? The complete story, abridged.](https://medium.com/firebase-developers/what-is-firebase-the-complete-story-abridged-bcc730c5f2c0)
