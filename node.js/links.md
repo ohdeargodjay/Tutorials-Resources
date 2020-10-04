@@ -28,7 +28,8 @@
    2. [Socket.io : Using multiple nodes](https://socket.io/docs/using-multiple-nodes/)
    3. [Node JS Cluster with MQTT, Socket.IO, Redis and Sticky Sessions.](https://medium.com/@jadejayashraj/node-js-cluster-with-mqtt-socket-io-redis-and-sticky-sessions-d5be72ef65f0)
    
-8. [Let's encrypt, certbot](https://flaviocopes.com/express-letsencrypt-ssl/)
-9. [create a trusted self-signed SSL cert for localhost (for use with Express/Node)
+8. Https :
+   1. [Let's encrypt, certbot](https://flaviocopes.com/express-letsencrypt-ssl/)
+   2. [create a trusted self-signed SSL cert for localhost (for use with Express/Node)
 ](https://stackoverflow.com/a/49784278/6753380)
    
