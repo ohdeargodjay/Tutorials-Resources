@@ -33,3 +33,5 @@
    2. [create a trusted self-signed SSL cert for localhost (for use with Express/Node)
 ](https://stackoverflow.com/a/49784278/6753380)
    
+9. Multipart/Form-data
+   1. [Node multipart/form-data Explained](https://www.derpturkey.com/node-multipart-form-data-explained/)
