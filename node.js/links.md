@@ -38,5 +38,5 @@
    
 9. Mongo 
    1. [How do I manage MongoDB connections in a Node.js web application?](https://stackoverflow.com/questions/10656574/how-do-i-manage-mongodb-connections-in-a-node-js-web-application)
-   2. [How to share one database connection in a node/express app
+   2. [How to share one database connection in a node/express app and accepting request after db connection
 ](https://itnext.io/how-to-share-a-single-database-connection-in-a-node-js-express-js-app-fcad4cbcb1e)
