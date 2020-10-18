@@ -28,3 +28,6 @@
    2. [Advanced : Understanding the meaning of lvalues and rvalues in C++](https://www.internalpointers.com/post/understanding-meaning-lvalues-and-rvalues-c)
    3. [OOP : Difference between the move assignment operator and move constructor?](https://stackoverflow.com/questions/29971205/difference-between-the-move-assignment-operator-and-move-constructor#:~:text=A%20move%20constructor%20is%20executed,as%20in%20the%20copy%20case.)
    4. [Advanced : Move Semantics](https://www.slideshare.net/ripplelabs/howard-hinnant-accu2014)
+
+7. 
+   1. [Internal and External Linkage in C++](http://www.goldsborough.me/c/c++/linker/2016/03/30/19-34-25-internal_and_external_linkage_in_c++/)
