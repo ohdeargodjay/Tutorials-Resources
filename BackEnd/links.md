@@ -55,3 +55,5 @@
 5. Authentication
    1. [What is Firebase? The complete story, abridged.](https://medium.com/firebase-developers/what-is-firebase-the-complete-story-abridged-bcc730c5f2c0)
    2. [Securing your express/Node.js API with Firebase auth](https://dev.to/emeka/securing-your-express-node-js-api-with-firebase-auth-4b5f)
+6. Testcases
+   1. [Best Practices for Spies, Stubs and Mocks in Sinon.js](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)
