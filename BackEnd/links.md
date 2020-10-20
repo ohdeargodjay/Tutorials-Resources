@@ -58,3 +58,4 @@
 6. Testcases
    1. [Best Practices for Spies, Stubs and Mocks in Sinon.js](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)
    2. [Using Stubs for Testing in JavaScript with Sinon.js](https://stackabuse.com/using-stubs-for-testing-in-javascript-with-sinon-js/#:~:text=What%20are%20Stubs%3F,it%20was%20programmed%20to%20return.)
+   3. [Sinon Tutorial: JavaScript Testing with Mocks, Spies & Stubs](https://www.sitepoint.com/sinon-tutorial-javascript-testing-mocks-spies-stubs/)
