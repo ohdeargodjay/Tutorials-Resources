@@ -43,3 +43,4 @@
 
 10. Memory
    1. [https://hacks.mozilla.org/2012/11/tracking-down-memory-leaks-in-node-js-a-node-js-holiday-season/](https://hacks.mozilla.org/2012/11/tracking-down-memory-leaks-in-node-js-a-node-js-holiday-season/)
+   2. [](https://stackoverflow.com/questions/19550253/memory-leaks-and-closures-in-javascript-when-and-why)
