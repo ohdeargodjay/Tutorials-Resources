@@ -47,3 +47,4 @@
 ](https://stackoverflow.com/questions/19550253/memory-leaks-and-closures-in-javascript-when-and-why)
    3. [Closure and callback memory leak in javascript
 ](https://stackoverflow.com/questions/16442201/closure-and-callback-memory-leak-in-javascript)
+   4. [How to prevent memory leaks in node.js?](https://stackoverflow.com/questions/5733665/how-to-prevent-memory-leaks-in-node-js)
