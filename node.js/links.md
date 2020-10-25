@@ -45,3 +45,5 @@
    1. [https://hacks.mozilla.org/2012/11/tracking-down-memory-leaks-in-node-js-a-node-js-holiday-season/](https://hacks.mozilla.org/2012/11/tracking-down-memory-leaks-in-node-js-a-node-js-holiday-season/)
    2. [Memory leaks and closures in JavaScript - when and why?
 ](https://stackoverflow.com/questions/19550253/memory-leaks-and-closures-in-javascript-when-and-why)
+   3. [Closure and callback memory leak in javascript
+](https://stackoverflow.com/questions/16442201/closure-and-callback-memory-leak-in-javascript)
