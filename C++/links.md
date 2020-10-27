@@ -6,7 +6,9 @@
    2. [Notes ehchua](https://www3.ntu.edu.sg/home/ehchua/programming/index.html#Cpp)
    3. [Succinctly](https://code.tutsplus.com/series/c-succinctly--mobile-22076)
    4. [C++ : bogotobogo](https://www.bogotobogo.com/cplusplus/)
-   
+2. Tools
+   1. [C gibberish ↔ English](https://www.cdecl.org/)
+   2. [The ``Clockwise/Spiral Rule''](The ``Clockwise/Spiral Rule'')
 3. IO
    1. [IO : endl and \n](https://www.educative.io/edpresso/what-is-the-difference-between-endl-and-n-in-cpp#:~:text=Both%20endl%20and%20%5Cn%20serve,%2C%20whereas%20%5Cn%20does%20not.)
    2. [IO : How cin works ?](https://stackoverflow.com/a/36914430/6753380)
