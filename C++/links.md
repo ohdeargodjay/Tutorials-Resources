@@ -35,3 +35,6 @@
 ](https://www.youtube.com/watch?v=0kgTuWkyorc)
 8. Modules
    1.[modules : Theory](https://vector-of-bool.github.io/2019/03/10/modules-1.html)
+9. General
+   1.[const vs constexpr on variables
+](https://stackoverflow.com/questions/13346879/const-vs-constexpr-on-variables)
