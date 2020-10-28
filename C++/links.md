@@ -33,6 +33,7 @@
    5. [What does “Memory allocated at compile time” really mean?](https://stackoverflow.com/questions/21350478/what-does-memory-allocated-at-compile-time-really-mean)
    6. [Where are addresses of pointers stored in C?](https://stackoverflow.com/questions/25198834/where-are-addresses-of-pointers-stored-in-c)
    7. [How does compiler lay out code in memory](https://stackoverflow.com/questions/19101449/how-does-compiler-lay-out-code-in-memory?noredirect=1&lq=1)
+  
 7. Scope, Linkage
    1. [Internal and External Linkage in C++](http://www.goldsborough.me/c/c++/linker/2016/03/30/19-34-25-internal_and_external_linkage_in_c++/)
    2. [Storage Duration and Linkage in C and C++ - Dan Saks
@@ -41,6 +42,8 @@
    1. [What is the difference between const int*, const int * const, and int const *?](https://stackoverflow.com/questions/1143262/what-is-the-difference-between-const-int-const-int-const-and-int-const?noredirect=1&lq=1)
    2. [What are the differences between a pointer variable and a reference variable in C++?
 ](https://stackoverflow.com/questions/57483/what-are-the-differences-between-a-pointer-variable-and-a-reference-variable-in)
+   3. [How do I declare a 2d array in C++ using new?
+](https://stackoverflow.com/questions/936687/how-do-i-declare-a-2d-array-in-c-using-new)
 8. Modules
    1. [modules : Theory](https://vector-of-bool.github.io/2019/03/10/modules-1.html)
 9. General
