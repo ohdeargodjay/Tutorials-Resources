@@ -42,11 +42,14 @@
    1. [What is the difference between const int*, const int * const, and int const *?](https://stackoverflow.com/questions/1143262/what-is-the-difference-between-const-int-const-int-const-and-int-const?noredirect=1&lq=1)
    2. [What are the differences between a pointer variable and a reference variable in C++?
 ](https://stackoverflow.com/questions/57483/what-are-the-differences-between-a-pointer-variable-and-a-reference-variable-in)
-   3. [How do I declare a 2d array in C++ using new?
-](https://stackoverflow.com/questions/936687/how-do-i-declare-a-2d-array-in-c-using-new)
 8. Modules
    1. [modules : Theory](https://vector-of-bool.github.io/2019/03/10/modules-1.html)
 9. General
    1. [const vs constexpr on variables
 ](https://stackoverflow.com/questions/13346879/const-vs-constexpr-on-variables)
    2. [Difference between `constexpr` and `const`](https://stackoverflow.com/questions/14116003/difference-between-constexpr-and-const)
+9. 2D Arrays
+   1. [How do I declare a 2d array in C++ using new?
+](https://stackoverflow.com/questions/936687/how-do-i-declare-a-2d-array-in-c-using-new)
+   2. [Passing a 2D array to a C++ function
+](https://stackoverflow.com/questions/8767166/passing-a-2d-array-to-a-c-function)
