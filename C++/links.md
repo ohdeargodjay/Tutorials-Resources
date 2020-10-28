@@ -37,8 +37,10 @@
    1. [Internal and External Linkage in C++](http://www.goldsborough.me/c/c++/linker/2016/03/30/19-34-25-internal_and_external_linkage_in_c++/)
    2. [Storage Duration and Linkage in C and C++ - Dan Saks
 ](https://www.youtube.com/watch?v=0kgTuWkyorc)
-8. Pointers
+8. Pointers and Refrences
    1. [What is the difference between const int*, const int * const, and int const *?](https://stackoverflow.com/questions/1143262/what-is-the-difference-between-const-int-const-int-const-and-int-const?noredirect=1&lq=1)
+   2. [What are the differences between a pointer variable and a reference variable in C++?
+](https://stackoverflow.com/questions/57483/what-are-the-differences-between-a-pointer-variable-and-a-reference-variable-in)
 8. Modules
    1. [modules : Theory](https://vector-of-bool.github.io/2019/03/10/modules-1.html)
 9. General
