@@ -50,3 +50,6 @@
    4. [How to prevent memory leaks in node.js?](https://stackoverflow.com/questions/5733665/how-to-prevent-memory-leaks-in-node-js)
    5. [Use JavaScript closures efficiently : Avoid memory leaks in your Node.js apps
 ](https://www.ibm.com/developerworks/library/wa-use-javascript-closures-efficiently/index.html)
+
+9. Circular dependency
+   1. [How to fix nasty circular dependency issues once and for all in JavaScript & TypeScript](https://medium.com/visual-development/how-to-fix-nasty-circular-dependency-issues-once-and-for-all-in-javascript-typescript-a04c987cf0de)
