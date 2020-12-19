@@ -53,3 +53,8 @@
 ](https://stackoverflow.com/questions/936687/how-do-i-declare-a-2d-array-in-c-using-new)
    2. [Passing a 2D array to a C++ function
 ](https://stackoverflow.com/questions/8767166/passing-a-2d-array-to-a-c-function)
+
+9. OOP
+   1.  Polymorphism
+      1.  [No virtual function table for abstract class, ans-1](https://stackoverflow.com/a/53181127/6753380), [No Virtual function for abstract class ans-2](https://stackoverflow.com/a/31307821/6753380)
+      2. 
