@@ -61,3 +61,4 @@
    3. [Sinon Tutorial: JavaScript Testing with Mocks, Spies & Stubs](https://www.sitepoint.com/sinon-tutorial-javascript-testing-mocks-spies-stubs/)
 7. Utils
    1. [Elastic Search, Python](https://medium.com/naukri-engineering/elasticsearch-tutorial-for-beginners-using-python-b9cb48edcedc)
+   2. [Elastic Search, Use Boto3 to Snapshot AWS Managed Elasticsearch Service indices to S3](https://john.soban.ski/snapshot-aws-es-to-s3.html)
