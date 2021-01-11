@@ -9,3 +9,6 @@
    1. [What is HTTPD exactly?
 ](https://stackoverflow.com/questions/34681936/what-is-httpd-exactly)
 
+3. Amazon CloudWatch:
+   1. (Amazon CloudWatch Tutorial)[https://www.youtube.com/watch?v=__knpcBRLHg]
+   
