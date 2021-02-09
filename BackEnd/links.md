@@ -59,6 +59,7 @@
    1. [Best Practices for Spies, Stubs and Mocks in Sinon.js](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)
    2. [Using Stubs for Testing in JavaScript with Sinon.js](https://stackabuse.com/using-stubs-for-testing-in-javascript-with-sinon-js/#:~:text=What%20are%20Stubs%3F,it%20was%20programmed%20to%20return.)
    3. [Sinon Tutorial: JavaScript Testing with Mocks, Spies & Stubs](https://www.sitepoint.com/sinon-tutorial-javascript-testing-mocks-spies-stubs/)
+   4. [Python Mocking 101](https://www.fugue.co/blog/2016-02-11-python-mocking-101)
 7. Utils
    1. [Elastic Search, Python](https://medium.com/naukri-engineering/elasticsearch-tutorial-for-beginners-using-python-b9cb48edcedc)
    2. [Elastic Search, Use Boto3 to Snapshot AWS Managed Elasticsearch Service indices to S3](https://john.soban.ski/snapshot-aws-es-to-s3.html)
