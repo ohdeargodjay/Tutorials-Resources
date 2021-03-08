@@ -67,3 +67,4 @@
    1. [Deploy single/multiple Node.js apps on AWS EC2 instance with live domains, subdomains, Nginx, Cloudflare with free SSL and Git.](https://medium.com/@nitin.malhotra/deploy-single-multiple-node-js-750ee6fee782)
    2. [Why should I use a Reverse Proxy if Node.js is Production-Ready?](https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca)
    3. [How to configure load balancing using Nginx](https://upcloud.com/community/tutorials/configure-load-balancing-nginx/)
+   4. [How To Use Certbot Standalone Mode to Retrieve Let's Encrypt SSL Certificates](https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates-on-ubuntu-16-04)
