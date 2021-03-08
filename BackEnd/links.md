@@ -63,3 +63,6 @@
 7. Utils
    1. [Elastic Search, Python](https://medium.com/naukri-engineering/elasticsearch-tutorial-for-beginners-using-python-b9cb48edcedc)
    2. [Elastic Search, Use Boto3 to Snapshot AWS Managed Elasticsearch Service indices to S3](https://john.soban.ski/snapshot-aws-es-to-s3.html)
+8. Deployment
+   1. [Deploy single/multiple Node.js apps on AWS EC2 instance with live domains, subdomains, Nginx, Cloudflare with free SSL and Git.](https://medium.com/@nitin.malhotra/deploy-single-multiple-node-js-750ee6fee782)
+   2. [Why should I use a Reverse Proxy if Node.js is Production-Ready?](https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca)
