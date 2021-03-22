@@ -72,3 +72,4 @@
 9. Load Balancing
    1. [Scaling Node.js Socket Server with Nginx and Redis](https://blog.jscrambler.com/scaling-node-js-socket-server-with-nginx-and-redis/)
    2. [Scaling node-js-socket-io](https://medium.com/@feritzcan/node-js-socket-io-1cde93315a7d)
+   3. [Nodejs-socketio : SessionId unknown](https://stackoverflow.com/questions/30713635/node-js-with-socket-io-long-polling-fails-and-throws-code1-messagesessi)
