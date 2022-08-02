@@ -77,3 +77,4 @@
 10. Implementation
    1. [How to make blocking socket non blocking](https://medium.com/vaidikkapoor/understanding-non-blocking-i-o-with-python-part-1-ec31a2e2db9b)
    2. [Incoming — JSON Validation Framework for Python](https://medium.com/vaidikkapoor/incoming-json-validation-framework-for-python-6da035d81ccc)
+   3. [Nonblocking I/O](https://copyconstruct.medium.com/nonblocking-i-o-99948ad7c957)
