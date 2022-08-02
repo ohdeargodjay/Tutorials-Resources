@@ -73,3 +73,6 @@
    1. [Scaling Node.js Socket Server with Nginx and Redis](https://blog.jscrambler.com/scaling-node-js-socket-server-with-nginx-and-redis/)
    2. [Scaling node-js-socket-io](https://medium.com/@feritzcan/node-js-socket-io-1cde93315a7d)
    3. [Nodejs-socketio : SessionId unknown](https://stackoverflow.com/questions/30713635/node-js-with-socket-io-long-polling-fails-and-throws-code1-messagesessi)
+
+10. Implementation
+   1. [How to make blocking socket non blocking](https://medium.com/vaidikkapoor/understanding-non-blocking-i-o-with-python-part-1-ec31a2e2db9b)
