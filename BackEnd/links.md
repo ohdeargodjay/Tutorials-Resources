@@ -79,3 +79,4 @@
    2. [Incoming — JSON Validation Framework for Python](https://medium.com/vaidikkapoor/incoming-json-validation-framework-for-python-6da035d81ccc)
    3. [Nonblocking I/O](https://copyconstruct.medium.com/nonblocking-i-o-99948ad7c957)
    4. [File descriptors](https://stackoverflow.com/questions/5256599/what-are-file-descriptors-explained-in-simple-terms)
+   5. [File Descriptor Management](https://www.youtube.com/watch?v=p1QuvdP7t4Y)
