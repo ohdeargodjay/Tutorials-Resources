@@ -80,3 +80,4 @@
    3. [Nonblocking I/O](https://copyconstruct.medium.com/nonblocking-i-o-99948ad7c957)
    4. [File descriptors](https://stackoverflow.com/questions/5256599/what-are-file-descriptors-explained-in-simple-terms)
    5. [File Descriptor Management](https://www.youtube.com/watch?v=p1QuvdP7t4Y)
+   6. [How does the python socket.recv() method know that the end of the message has been reached?](https://stackoverflow.com/questions/41382127/how-does-the-python-socket-recv-method-know-that-the-end-of-the-message-has-be)
